@@ -1,6 +1,6 @@
 # 인공지능 프로젝트
 
-### Anaconda3 사용법
+### Anaconda 사용법
 
 * anaconda는 쉽게 말해서 Python용 docker이다
 * 가상환경에 python 서버를 돌리는 것과 마찬가지
