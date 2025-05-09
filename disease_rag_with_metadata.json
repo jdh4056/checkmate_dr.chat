@@ -1,0 +1,5055 @@
+[
+  {
+    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Influenza일 수 있습니다.",
+    "metadata": {
+      "disease": "Influenza",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 19,
+      "gender": "Female",
+      "blood_pressure": "Low",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Common Cold일 수 있습니다.",
+    "metadata": {
+      "disease": "Common Cold",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 25,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Eczema일 수 있습니다.",
+    "metadata": {
+      "disease": "Eczema",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 25,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Difficulty Breathing"
+      ],
+      "age": 25,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Difficulty Breathing"
+      ],
+      "age": 25,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Eczema일 수 있습니다.",
+    "metadata": {
+      "disease": "Eczema",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 25,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Influenza일 수 있습니다.",
+    "metadata": {
+      "disease": "Influenza",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 25,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Influenza일 수 있습니다.",
+    "metadata": {
+      "disease": "Influenza",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 25,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Hyperthyroidism일 수 있습니다.",
+    "metadata": {
+      "disease": "Hyperthyroidism",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 28,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Hyperthyroidism일 수 있습니다.",
+    "metadata": {
+      "disease": "Hyperthyroidism",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 28,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Fever",
+        "Difficulty Breathing"
+      ],
+      "age": 28,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Allergic Rhinitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Allergic Rhinitis",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 29,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Anxiety Disorders일 수 있습니다.",
+    "metadata": {
+      "disease": "Anxiety Disorders",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 29,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Gastroenteritis일 수 있습니다.",
+    "metadata": {
+      "disease": "Gastroenteritis",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 29,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Pancreatitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Pancreatitis",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 29,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Rheumatoid Arthritis일 수 있습니다.",
+    "metadata": {
+      "disease": "Rheumatoid Arthritis",
+      "symptoms": [
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 29,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Depression일 수 있습니다.",
+    "metadata": {
+      "disease": "Depression",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 29,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Liver Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Liver Cancer",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 29,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Stroke일 수 있습니다.",
+    "metadata": {
+      "disease": "Stroke",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 29,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Urinary Tract Infection일 수 있습니다.",
+    "metadata": {
+      "disease": "Urinary Tract Infection",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 29,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Dengue Fever일 수 있습니다.",
+    "metadata": {
+      "disease": "Dengue Fever",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 30,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Dengue Fever일 수 있습니다.",
+    "metadata": {
+      "disease": "Dengue Fever",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 30,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Eczema일 수 있습니다.",
+    "metadata": {
+      "disease": "Eczema",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 30,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Gastroenteritis일 수 있습니다.",
+    "metadata": {
+      "disease": "Gastroenteritis",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 30,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Hepatitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Hepatitis",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 30,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Kidney Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Kidney Cancer",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 30,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Migraine일 수 있습니다.",
+    "metadata": {
+      "disease": "Migraine",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 30,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Migraine일 수 있습니다.",
+    "metadata": {
+      "disease": "Migraine",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 30,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Muscular Dystrophy일 수 있습니다.",
+    "metadata": {
+      "disease": "Muscular Dystrophy",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 30,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Sinusitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Sinusitis",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 30,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough 증상이 있는 경우 Ulcerative Colitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Ulcerative Colitis",
+      "symptoms": [
+        "Fever",
+        "Cough"
+      ],
+      "age": 30,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Ulcerative Colitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Ulcerative Colitis",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 30,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Difficulty Breathing"
+      ],
+      "age": 30,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Difficulty Breathing"
+      ],
+      "age": 30,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 30,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Bipolar Disorder일 수 있습니다.",
+    "metadata": {
+      "disease": "Bipolar Disorder",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 30,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Bronchitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Bronchitis",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Difficulty Breathing"
+      ],
+      "age": 30,
+      "gender": "Female",
+      "blood_pressure": "Low",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Bronchitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Bronchitis",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 30,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Bronchitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Bronchitis",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 30,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue, Difficulty Breathing 증상이 있는 경우 Cerebral Palsy일 수 있습니다.",
+    "metadata": {
+      "disease": "Cerebral Palsy",
+      "symptoms": [
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 30,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Colorectal Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Colorectal Cancer",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 30,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Eczema일 수 있습니다.",
+    "metadata": {
+      "disease": "Eczema",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 30,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Hypertensive Heart Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Hypertensive Heart Disease",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 30,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Influenza일 수 있습니다.",
+    "metadata": {
+      "disease": "Influenza",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 30,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Influenza일 수 있습니다.",
+    "metadata": {
+      "disease": "Influenza",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 30,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Multiple Sclerosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Multiple Sclerosis",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 30,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Myocardial Infarction (Heart...일 수 있습니다.",
+    "metadata": {
+      "disease": "Myocardial Infarction (Heart...",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 30,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Urinary Tract Infection (UTI)일 수 있습니다.",
+    "metadata": {
+      "disease": "Urinary Tract Infection (UTI)",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 30,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Difficulty Breathing"
+      ],
+      "age": 31,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Difficulty Breathing 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Osteoporosis",
+      "symptoms": [
+        "Difficulty Breathing"
+      ],
+      "age": 31,
+      "gender": "Male",
+      "blood_pressure": "Low",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Common Cold일 수 있습니다.",
+    "metadata": {
+      "disease": "Common Cold",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 31,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Migraine일 수 있습니다.",
+    "metadata": {
+      "disease": "Migraine",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 31,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Pneumonia일 수 있습니다.",
+    "metadata": {
+      "disease": "Pneumonia",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 32,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Allergic Rhinitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Allergic Rhinitis",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 35,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 35,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 35,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 35,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Atherosclerosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Atherosclerosis",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Chronic Obstructive Pulmonary...일 수 있습니다.",
+    "metadata": {
+      "disease": "Chronic Obstructive Pulmonary...",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Common Cold일 수 있습니다.",
+    "metadata": {
+      "disease": "Common Cold",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Eczema일 수 있습니다.",
+    "metadata": {
+      "disease": "Eczema",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Epilepsy일 수 있습니다.",
+    "metadata": {
+      "disease": "Epilepsy",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Hypertension일 수 있습니다.",
+    "metadata": {
+      "disease": "Hypertension",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Hyperthyroidism일 수 있습니다.",
+    "metadata": {
+      "disease": "Hyperthyroidism",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Obsessive-Compulsive Disorde...일 수 있습니다.",
+    "metadata": {
+      "disease": "Obsessive-Compulsive Disorde...",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Pneumonia일 수 있습니다.",
+    "metadata": {
+      "disease": "Pneumonia",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 35,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Pneumonia일 수 있습니다.",
+    "metadata": {
+      "disease": "Pneumonia",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 35,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Psoriasis일 수 있습니다.",
+    "metadata": {
+      "disease": "Psoriasis",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 35,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Psoriasis일 수 있습니다.",
+    "metadata": {
+      "disease": "Psoriasis",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Rubella일 수 있습니다.",
+    "metadata": {
+      "disease": "Rubella",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Rubella일 수 있습니다.",
+    "metadata": {
+      "disease": "Rubella",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Urinary Tract Infection (UTI)일 수 있습니다.",
+    "metadata": {
+      "disease": "Urinary Tract Infection (UTI)",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Difficulty Breathing"
+      ],
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Difficulty Breathing"
+      ],
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Cirrhosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Cirrhosis",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Conjunctivitis (Pink Eye)일 수 있습니다.",
+    "metadata": {
+      "disease": "Conjunctivitis (Pink Eye)",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 35,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Depression일 수 있습니다.",
+    "metadata": {
+      "disease": "Depression",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Gastroenteritis일 수 있습니다.",
+    "metadata": {
+      "disease": "Gastroenteritis",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": "Low",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Hyperthyroidism일 수 있습니다.",
+    "metadata": {
+      "disease": "Hyperthyroidism",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Hyperthyroidism일 수 있습니다.",
+    "metadata": {
+      "disease": "Hyperthyroidism",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Kidney Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Kidney Cancer",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Liver Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Liver Cancer",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Liver Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Liver Disease",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Malaria일 수 있습니다.",
+    "metadata": {
+      "disease": "Malaria",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Malaria일 수 있습니다.",
+    "metadata": {
+      "disease": "Malaria",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Migraine일 수 있습니다.",
+    "metadata": {
+      "disease": "Migraine",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Migraine일 수 있습니다.",
+    "metadata": {
+      "disease": "Migraine",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Pancreatitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Pancreatitis",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Rheumatoid Arthritis일 수 있습니다.",
+    "metadata": {
+      "disease": "Rheumatoid Arthritis",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Rheumatoid Arthritis일 수 있습니다.",
+    "metadata": {
+      "disease": "Rheumatoid Arthritis",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Spina Bifida일 수 있습니다.",
+    "metadata": {
+      "disease": "Spina Bifida",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Ulcerative Colitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Ulcerative Colitis",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Ulcerative Colitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Ulcerative Colitis",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Urinary Tract Infection일 수 있습니다.",
+    "metadata": {
+      "disease": "Urinary Tract Infection",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 35,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Allergic Rhinitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Allergic Rhinitis",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 38,
+      "gender": "Female",
+      "blood_pressure": "Low",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Kidney Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Kidney Disease",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 38,
+      "gender": "Female",
+      "blood_pressure": "Low",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough 증상이 있는 경우 Liver Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Liver Cancer",
+      "symptoms": [
+        "Fever",
+        "Cough"
+      ],
+      "age": 38,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Difficulty Breathing 증상이 있는 경우 Liver Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Liver Disease",
+      "symptoms": [
+        "Cough",
+        "Difficulty Breathing"
+      ],
+      "age": 38,
+      "gender": "Male",
+      "blood_pressure": "Low",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Osteoporosis",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 38,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough 증상이 있는 경우 Stroke일 수 있습니다.",
+    "metadata": {
+      "disease": "Stroke",
+      "symptoms": [
+        "Fever",
+        "Cough"
+      ],
+      "age": 38,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Anxiety Disorders일 수 있습니다.",
+    "metadata": {
+      "disease": "Anxiety Disorders",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 38,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Diabetes일 수 있습니다.",
+    "metadata": {
+      "disease": "Diabetes",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 38,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Low",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough 증상이 있는 경우 Migraine일 수 있습니다.",
+    "metadata": {
+      "disease": "Migraine",
+      "symptoms": [
+        "Fever",
+        "Cough"
+      ],
+      "age": 38,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Osteoarthritis일 수 있습니다.",
+    "metadata": {
+      "disease": "Osteoarthritis",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 38,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Pneumonia일 수 있습니다.",
+    "metadata": {
+      "disease": "Pneumonia",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 38,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Klinefelter Syndrome일 수 있습니다.",
+    "metadata": {
+      "disease": "Klinefelter Syndrome",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 39,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Acne일 수 있습니다.",
+    "metadata": {
+      "disease": "Acne",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 40,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Brain Tumor일 수 있습니다.",
+    "metadata": {
+      "disease": "Brain Tumor",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 40,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Difficulty Breathing 증상이 있는 경우 Bronchitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Bronchitis",
+      "symptoms": [
+        "Cough",
+        "Difficulty Breathing"
+      ],
+      "age": 40,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue, Difficulty Breathing 증상이 있는 경우 Cystic Fibrosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Cystic Fibrosis",
+      "symptoms": [
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 40,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Diabetes일 수 있습니다.",
+    "metadata": {
+      "disease": "Diabetes",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 40,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Glaucoma일 수 있습니다.",
+    "metadata": {
+      "disease": "Glaucoma",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 40,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Osteoarthritis일 수 있습니다.",
+    "metadata": {
+      "disease": "Osteoarthritis",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 40,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough 증상이 있는 경우 Rabies일 수 있습니다.",
+    "metadata": {
+      "disease": "Rabies",
+      "symptoms": [
+        "Fever",
+        "Cough"
+      ],
+      "age": 40,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough 증상이 있는 경우 Rabies일 수 있습니다.",
+    "metadata": {
+      "disease": "Rabies",
+      "symptoms": [
+        "Fever",
+        "Cough"
+      ],
+      "age": 40,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 40,
+      "gender": "Male",
+      "blood_pressure": "Low",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Difficulty Breathing"
+      ],
+      "age": 40,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Difficulty Breathing"
+      ],
+      "age": 40,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 40,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 40,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 40,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Chickenpox일 수 있습니다.",
+    "metadata": {
+      "disease": "Chickenpox",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 40,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Chickenpox일 수 있습니다.",
+    "metadata": {
+      "disease": "Chickenpox",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 40,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Coronary Artery Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Coronary Artery Disease",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 40,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Eating Disorders (Anorexia,...일 수 있습니다.",
+    "metadata": {
+      "disease": "Eating Disorders (Anorexia,...",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 40,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Fibromyalgia일 수 있습니다.",
+    "metadata": {
+      "disease": "Fibromyalgia",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 40,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Gastroenteritis일 수 있습니다.",
+    "metadata": {
+      "disease": "Gastroenteritis",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 40,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Hemophilia일 수 있습니다.",
+    "metadata": {
+      "disease": "Hemophilia",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 40,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Hyperthyroidism일 수 있습니다.",
+    "metadata": {
+      "disease": "Hyperthyroidism",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 40,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Hypoglycemia일 수 있습니다.",
+    "metadata": {
+      "disease": "Hypoglycemia",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 40,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Lymphoma일 수 있습니다.",
+    "metadata": {
+      "disease": "Lymphoma",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 40,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Pneumonia일 수 있습니다.",
+    "metadata": {
+      "disease": "Pneumonia",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 40,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Psoriasis일 수 있습니다.",
+    "metadata": {
+      "disease": "Psoriasis",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 40,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Psoriasis일 수 있습니다.",
+    "metadata": {
+      "disease": "Psoriasis",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 40,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Psoriasis일 수 있습니다.",
+    "metadata": {
+      "disease": "Psoriasis",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 40,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Tuberculosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Tuberculosis",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 40,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Tuberculosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Tuberculosis",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 40,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough 증상이 있는 경우 Common Cold일 수 있습니다.",
+    "metadata": {
+      "disease": "Common Cold",
+      "symptoms": [
+        "Fever",
+        "Cough"
+      ],
+      "age": 42,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Difficulty Breathing 증상이 있는 경우 Depression일 수 있습니다.",
+    "metadata": {
+      "disease": "Depression",
+      "symptoms": [
+        "Fever",
+        "Difficulty Breathing"
+      ],
+      "age": 42,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Influenza일 수 있습니다.",
+    "metadata": {
+      "disease": "Influenza",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 42,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Kidney Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Kidney Cancer",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 42,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Liver Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Liver Cancer",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 42,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Difficulty Breathing 증상이 있는 경우 Liver Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Liver Disease",
+      "symptoms": [
+        "Fever",
+        "Difficulty Breathing"
+      ],
+      "age": 42,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Lung Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Lung Cancer",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 42,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Migraine일 수 있습니다.",
+    "metadata": {
+      "disease": "Migraine",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 42,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Osteoarthritis일 수 있습니다.",
+    "metadata": {
+      "disease": "Osteoarthritis",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 42,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Stroke일 수 있습니다.",
+    "metadata": {
+      "disease": "Stroke",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 42,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Urinary Tract Infection일 수 있습니다.",
+    "metadata": {
+      "disease": "Urinary Tract Infection",
+      "symptoms": [
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 42,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Diabetes일 수 있습니다.",
+    "metadata": {
+      "disease": "Diabetes",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 42,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Hypothyroidism일 수 있습니다.",
+    "metadata": {
+      "disease": "Hypothyroidism",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 42,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Hypothyroidism일 수 있습니다.",
+    "metadata": {
+      "disease": "Hypothyroidism",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 42,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Kidney Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Kidney Disease",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 42,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Low",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Pneumonia일 수 있습니다.",
+    "metadata": {
+      "disease": "Pneumonia",
+      "symptoms": [
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 43,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Allergic Rhinitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Allergic Rhinitis",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Autism Spectrum Disorder (ASD)일 수 있습니다.",
+    "metadata": {
+      "disease": "Autism Spectrum Disorder (ASD)",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Crohn's Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Crohn's Disease",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Hepatitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Hepatitis",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Hepatitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Hepatitis",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Hyperglycemia일 수 있습니다.",
+    "metadata": {
+      "disease": "Hyperglycemia",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Kidney Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Kidney Cancer",
+      "symptoms": [
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough 증상이 있는 경우 Kidney Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Kidney Disease",
+      "symptoms": [
+        "Fever",
+        "Cough"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Melanoma일 수 있습니다.",
+    "metadata": {
+      "disease": "Melanoma",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Ovarian Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Ovarian Cancer",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Pancreatitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Pancreatitis",
+      "symptoms": [
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Rheumatoid Arthritis일 수 있습니다.",
+    "metadata": {
+      "disease": "Rheumatoid Arthritis",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Stroke일 수 있습니다.",
+    "metadata": {
+      "disease": "Stroke",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Turner Syndrome일 수 있습니다.",
+    "metadata": {
+      "disease": "Turner Syndrome",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Turner Syndrome일 수 있습니다.",
+    "metadata": {
+      "disease": "Turner Syndrome",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Zika Virus일 수 있습니다.",
+    "metadata": {
+      "disease": "Zika Virus",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Zika Virus일 수 있습니다.",
+    "metadata": {
+      "disease": "Zika Virus",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Allergic Rhinitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Allergic Rhinitis",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Anxiety Disorders일 수 있습니다.",
+    "metadata": {
+      "disease": "Anxiety Disorders",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Difficulty Breathing"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Difficulty Breathing"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Cataracts일 수 있습니다.",
+    "metadata": {
+      "disease": "Cataracts",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Crohn's Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Crohn's Disease",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Crohn's Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Crohn's Disease",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Depression일 수 있습니다.",
+    "metadata": {
+      "disease": "Depression",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Diabetes일 수 있습니다.",
+    "metadata": {
+      "disease": "Diabetes",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Diabetes일 수 있습니다.",
+    "metadata": {
+      "disease": "Diabetes",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Hypertension일 수 있습니다.",
+    "metadata": {
+      "disease": "Hypertension",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Hypothyroidism일 수 있습니다.",
+    "metadata": {
+      "disease": "Hypothyroidism",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Liver Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Liver Disease",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Multiple Sclerosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Multiple Sclerosis",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 45,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Multiple Sclerosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Multiple Sclerosis",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 45,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Osteoarthritis일 수 있습니다.",
+    "metadata": {
+      "disease": "Osteoarthritis",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Osteoporosis",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Pneumocystis Pneumonia (PCP)일 수 있습니다.",
+    "metadata": {
+      "disease": "Pneumocystis Pneumonia (PCP)",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Pneumonia일 수 있습니다.",
+    "metadata": {
+      "disease": "Pneumonia",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Sickle Cell Anemia일 수 있습니다.",
+    "metadata": {
+      "disease": "Sickle Cell Anemia",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Tetanus일 수 있습니다.",
+    "metadata": {
+      "disease": "Tetanus",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Tetanus일 수 있습니다.",
+    "metadata": {
+      "disease": "Tetanus",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 45,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Hypothyroidism일 수 있습니다.",
+    "metadata": {
+      "disease": "Hypothyroidism",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 48,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Hypothyroidism일 수 있습니다.",
+    "metadata": {
+      "disease": "Hypothyroidism",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 48,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Allergic Rhinitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Allergic Rhinitis",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 50,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Anemia일 수 있습니다.",
+    "metadata": {
+      "disease": "Anemia",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 50,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Anxiety Disorders일 수 있습니다.",
+    "metadata": {
+      "disease": "Anxiety Disorders",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 50,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Cholera일 수 있습니다.",
+    "metadata": {
+      "disease": "Cholera",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 50,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Cholera일 수 있습니다.",
+    "metadata": {
+      "disease": "Cholera",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 50,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Crohn's Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Crohn's Disease",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 50,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Crohn's Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Crohn's Disease",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 50,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Depression일 수 있습니다.",
+    "metadata": {
+      "disease": "Depression",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 50,
+      "gender": "Female",
+      "blood_pressure": "Low",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Diabetes일 수 있습니다.",
+    "metadata": {
+      "disease": "Diabetes",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 50,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Endometriosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Endometriosis",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 50,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Hypertension일 수 있습니다.",
+    "metadata": {
+      "disease": "Hypertension",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 50,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Hypothyroidism일 수 있습니다.",
+    "metadata": {
+      "disease": "Hypothyroidism",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 50,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Kidney Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Kidney Cancer",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 50,
+      "gender": "Male",
+      "blood_pressure": "Low",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Difficulty Breathing 증상이 있는 경우 Kidney Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Kidney Disease",
+      "symptoms": [
+        "Cough",
+        "Difficulty Breathing"
+      ],
+      "age": 50,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Pancreatitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Pancreatitis",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 50,
+      "gender": "Male",
+      "blood_pressure": "Low",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Rheumatoid Arthritis일 수 있습니다.",
+    "metadata": {
+      "disease": "Rheumatoid Arthritis",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 50,
+      "gender": "Female",
+      "blood_pressure": "Low",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Sepsis일 수 있습니다.",
+    "metadata": {
+      "disease": "Sepsis",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 50,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Sleep Apnea일 수 있습니다.",
+    "metadata": {
+      "disease": "Sleep Apnea",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 50,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Urinary Tract Infection일 수 있습니다.",
+    "metadata": {
+      "disease": "Urinary Tract Infection",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Difficulty Breathing"
+      ],
+      "age": 50,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 50,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Bronchitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Bronchitis",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 50,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Down Syndrome일 수 있습니다.",
+    "metadata": {
+      "disease": "Down Syndrome",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 50,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Ebola Virus일 수 있습니다.",
+    "metadata": {
+      "disease": "Ebola Virus",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 50,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Ebola Virus일 수 있습니다.",
+    "metadata": {
+      "disease": "Ebola Virus",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 50,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Eczema일 수 있습니다.",
+    "metadata": {
+      "disease": "Eczema",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 50,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Gastroenteritis일 수 있습니다.",
+    "metadata": {
+      "disease": "Gastroenteritis",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 50,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Klinefelter Syndrome일 수 있습니다.",
+    "metadata": {
+      "disease": "Klinefelter Syndrome",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 50,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Liver Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Liver Cancer",
+      "symptoms": [
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 50,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Lyme Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Lyme Disease",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 50,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Lyme Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Lyme Disease",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 50,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Pancreatic Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Pancreatic Cancer",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 50,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue, Difficulty Breathing 증상이 있는 경우 Pneumothorax일 수 있습니다.",
+    "metadata": {
+      "disease": "Pneumothorax",
+      "symptoms": [
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 50,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Stroke일 수 있습니다.",
+    "metadata": {
+      "disease": "Stroke",
+      "symptoms": [
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 50,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Ulcerative Colitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Ulcerative Colitis",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 50,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough 증상이 있는 경우 Hypertension일 수 있습니다.",
+    "metadata": {
+      "disease": "Hypertension",
+      "symptoms": [
+        "Fever",
+        "Cough"
+      ],
+      "age": 52,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Multiple Sclerosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Multiple Sclerosis",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 52,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Multiple Sclerosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Multiple Sclerosis",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 52,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Appendicitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Appendicitis",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 55,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue, Difficulty Breathing 증상이 있는 경우 Bronchitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Bronchitis",
+      "symptoms": [
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 55,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Bronchitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Bronchitis",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 55,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Common Cold일 수 있습니다.",
+    "metadata": {
+      "disease": "Common Cold",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 55,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Diabetes일 수 있습니다.",
+    "metadata": {
+      "disease": "Diabetes",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 55,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Esophageal Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Esophageal Cancer",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 55,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 HIV/AIDS일 수 있습니다.",
+    "metadata": {
+      "disease": "HIV/AIDS",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 55,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 HIV/AIDS일 수 있습니다.",
+    "metadata": {
+      "disease": "HIV/AIDS",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 55,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Hypertension일 수 있습니다.",
+    "metadata": {
+      "disease": "Hypertension",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 55,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Liver Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Liver Disease",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 55,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Marfan Syndrome일 수 있습니다.",
+    "metadata": {
+      "disease": "Marfan Syndrome",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 55,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Migraine일 수 있습니다.",
+    "metadata": {
+      "disease": "Migraine",
+      "symptoms": [
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 55,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Osteoporosis",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 55,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Parkinson's Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Parkinson's Disease",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 55,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Parkinson's Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Parkinson's Disease",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 55,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough 증상이 있는 경우 Anxiety Disorders일 수 있습니다.",
+    "metadata": {
+      "disease": "Anxiety Disorders",
+      "symptoms": [
+        "Fever",
+        "Cough"
+      ],
+      "age": 55,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Coronary Artery Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Coronary Artery Disease",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 55,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Coronary Artery Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Coronary Artery Disease",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 55,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Hypertension일 수 있습니다.",
+    "metadata": {
+      "disease": "Hypertension",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 55,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Hypothyroidism일 수 있습니다.",
+    "metadata": {
+      "disease": "Hypothyroidism",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 55,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough 증상이 있는 경우 Osteoarthritis일 수 있습니다.",
+    "metadata": {
+      "disease": "Osteoarthritis",
+      "symptoms": [
+        "Fever",
+        "Cough"
+      ],
+      "age": 55,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Osteoporosis",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 55,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Low",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Osteoporosis",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 55,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Osteoporosis",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 55,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Osteoporosis",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 55,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough 증상이 있는 경우 Polycystic Ovary Syndrome (PCOS)일 수 있습니다.",
+    "metadata": {
+      "disease": "Polycystic Ovary Syndrome (PCOS)",
+      "symptoms": [
+        "Fever",
+        "Cough"
+      ],
+      "age": 55,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Systemic Lupus Erythematosus...일 수 있습니다.",
+    "metadata": {
+      "disease": "Systemic Lupus Erythematosus...",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 55,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Typhoid Fever일 수 있습니다.",
+    "metadata": {
+      "disease": "Typhoid Fever",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 55,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Typhoid Fever일 수 있습니다.",
+    "metadata": {
+      "disease": "Typhoid Fever",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 55,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Influenza일 수 있습니다.",
+    "metadata": {
+      "disease": "Influenza",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 56,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Pneumonia일 수 있습니다.",
+    "metadata": {
+      "disease": "Pneumonia",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Difficulty Breathing"
+      ],
+      "age": 57,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Breast Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Breast Cancer",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 60,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough 증상이 있는 경우 Coronary Artery Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Coronary Artery Disease",
+      "symptoms": [
+        "Fever",
+        "Cough"
+      ],
+      "age": 60,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough 증상이 있는 경우 Coronary Artery Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Coronary Artery Disease",
+      "symptoms": [
+        "Fever",
+        "Cough"
+      ],
+      "age": 60,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Hyperthyroidism일 수 있습니다.",
+    "metadata": {
+      "disease": "Hyperthyroidism",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 60,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough 증상이 있는 경우 Measles일 수 있습니다.",
+    "metadata": {
+      "disease": "Measles",
+      "symptoms": [
+        "Fever",
+        "Cough"
+      ],
+      "age": 60,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough 증상이 있는 경우 Measles일 수 있습니다.",
+    "metadata": {
+      "disease": "Measles",
+      "symptoms": [
+        "Fever",
+        "Cough"
+      ],
+      "age": 60,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Difficulty Breathing 증상이 있는 경우 Osteoarthritis일 수 있습니다.",
+    "metadata": {
+      "disease": "Osteoarthritis",
+      "symptoms": [
+        "Cough",
+        "Difficulty Breathing"
+      ],
+      "age": 60,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Osteomyelitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Osteomyelitis",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 60,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Osteoporosis",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 60,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Osteoporosis",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 60,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Osteoporosis",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 60,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Polio일 수 있습니다.",
+    "metadata": {
+      "disease": "Polio",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 60,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "metadata": {
+      "disease": "Asthma",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 60,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Chronic Kidney Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Chronic Kidney Disease",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 60,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Hemophilia일 수 있습니다.",
+    "metadata": {
+      "disease": "Hemophilia",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 60,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Hepatitis B일 수 있습니다.",
+    "metadata": {
+      "disease": "Hepatitis B",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 60,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Hepatitis B일 수 있습니다.",
+    "metadata": {
+      "disease": "Hepatitis B",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 60,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Low",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Hypertension일 수 있습니다.",
+    "metadata": {
+      "disease": "Hypertension",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 60,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Hypertension일 수 있습니다.",
+    "metadata": {
+      "disease": "Hypertension",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 60,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Kidney Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Kidney Cancer",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 60,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Kidney Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Kidney Disease",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 60,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Osteoporosis",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 60,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Pancreatitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Pancreatitis",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 60,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough 증상이 있는 경우 Parkinson's Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Parkinson's Disease",
+      "symptoms": [
+        "Fever",
+        "Cough"
+      ],
+      "age": 60,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough 증상이 있는 경우 Parkinson's Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Parkinson's Disease",
+      "symptoms": [
+        "Fever",
+        "Cough"
+      ],
+      "age": 60,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Prader-Willi Syndrome일 수 있습니다.",
+    "metadata": {
+      "disease": "Prader-Willi Syndrome",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 60,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Rheumatoid Arthritis일 수 있습니다.",
+    "metadata": {
+      "disease": "Rheumatoid Arthritis",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 60,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Thyroid Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Thyroid Cancer",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 60,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Tuberculosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Tuberculosis",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 60,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Bladder Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Bladder Cancer",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 65,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Diabetes일 수 있습니다.",
+    "metadata": {
+      "disease": "Diabetes",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 65,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Otitis Media (Ear Infection)일 수 있습니다.",
+    "metadata": {
+      "disease": "Otitis Media (Ear Infection)",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 65,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Stroke일 수 있습니다.",
+    "metadata": {
+      "disease": "Stroke",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 65,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Stroke일 수 있습니다.",
+    "metadata": {
+      "disease": "Stroke",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 65,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Low",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Tourette Syndrome일 수 있습니다.",
+    "metadata": {
+      "disease": "Tourette Syndrome",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 65,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Urinary Tract Infection (UTI)일 수 있습니다.",
+    "metadata": {
+      "disease": "Urinary Tract Infection (UTI)",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 65,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Alzheimer's Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Alzheimer's Disease",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 65,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Alzheimer's Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Alzheimer's Disease",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 65,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Alzheimer's Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Alzheimer's Disease",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 65,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Bronchitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Bronchitis",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 65,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Chronic Obstructive Pulmonary Disease (COPD)일 수 있습니다.",
+    "metadata": {
+      "disease": "Chronic Obstructive Pulmonary Disease (COPD)",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 65,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Chronic Obstructive Pulmonary Disease (COPD)일 수 있습니다.",
+    "metadata": {
+      "disease": "Chronic Obstructive Pulmonary Disease (COPD)",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 65,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Dementia일 수 있습니다.",
+    "metadata": {
+      "disease": "Dementia",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 65,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Diabetes일 수 있습니다.",
+    "metadata": {
+      "disease": "Diabetes",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 65,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Diverticulitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Diverticulitis",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 65,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Liver Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Liver Cancer",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 65,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Lung Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Lung Cancer",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 65,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Lung Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Lung Cancer",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 65,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Mumps일 수 있습니다.",
+    "metadata": {
+      "disease": "Mumps",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 65,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Mumps일 수 있습니다.",
+    "metadata": {
+      "disease": "Mumps",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 65,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Osteoporosis",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 65,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Stroke일 수 있습니다.",
+    "metadata": {
+      "disease": "Stroke",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 65,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Alzheimer's Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Alzheimer's Disease",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 70,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Alzheimer's Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Alzheimer's Disease",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 70,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Cholecystitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Cholecystitis",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 70,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Chronic Obstructive Pulmonary Disease (COPD)일 수 있습니다.",
+    "metadata": {
+      "disease": "Chronic Obstructive Pulmonary Disease (COPD)",
+      "symptoms": [
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 70,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Chronic Obstructive Pulmonary Disease (COPD)일 수 있습니다.",
+    "metadata": {
+      "disease": "Chronic Obstructive Pulmonary Disease (COPD)",
+      "symptoms": [
+        "Cough",
+        "Fatigue",
+        "Difficulty Breathing"
+      ],
+      "age": 70,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "metadata": {
+      "disease": "Osteoporosis",
+      "symptoms": [
+        "Fever"
+      ],
+      "age": 70,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Parkinson's Disease일 수 있습니다.",
+    "metadata": {
+      "disease": "Parkinson's Disease",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 70,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Cough 증상이 있는 경우 Prostate Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Prostate Cancer",
+      "symptoms": [
+        "Fever",
+        "Cough"
+      ],
+      "age": 70,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Cough, Fatigue 증상이 있는 경우 Schizophrenia일 수 있습니다.",
+    "metadata": {
+      "disease": "Schizophrenia",
+      "symptoms": [
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 70,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Negative"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Gout일 수 있습니다.",
+    "metadata": {
+      "disease": "Gout",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 70,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Migraine일 수 있습니다.",
+    "metadata": {
+      "disease": "Migraine",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 70,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Stroke일 수 있습니다.",
+    "metadata": {
+      "disease": "Stroke",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 70,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Cough 증상이 있는 경우 Stroke일 수 있습니다.",
+    "metadata": {
+      "disease": "Stroke",
+      "symptoms": [
+        "Cough"
+      ],
+      "age": 70,
+      "gender": "Male",
+      "blood_pressure": "Normal",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Testicular Cancer일 수 있습니다.",
+    "metadata": {
+      "disease": "Testicular Cancer",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 70,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Tonsillitis일 수 있습니다.",
+    "metadata": {
+      "disease": "Tonsillitis",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Fatigue"
+      ],
+      "age": 70,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fatigue 증상이 있는 경우 Williams Syndrome일 수 있습니다.",
+    "metadata": {
+      "disease": "Williams Syndrome",
+      "symptoms": [
+        "Fatigue"
+      ],
+      "age": 70,
+      "gender": "Female",
+      "blood_pressure": "Normal",
+      "cholesterol": "Normal",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Stroke일 수 있습니다.",
+    "metadata": {
+      "disease": "Stroke",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 80,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Stroke일 수 있습니다.",
+    "metadata": {
+      "disease": "Stroke",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 80,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Stroke일 수 있습니다.",
+    "metadata": {
+      "disease": "Stroke",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 85,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Stroke일 수 있습니다.",
+    "metadata": {
+      "disease": "Stroke",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 85,
+      "gender": "Male",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Stroke일 수 있습니다.",
+    "metadata": {
+      "disease": "Stroke",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 90,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  },
+  {
+    "text": "Fever, Fatigue 증상이 있는 경우 Stroke일 수 있습니다.",
+    "metadata": {
+      "disease": "Stroke",
+      "symptoms": [
+        "Fever",
+        "Fatigue"
+      ],
+      "age": 90,
+      "gender": "Female",
+      "blood_pressure": "High",
+      "cholesterol": "High",
+      "outcome": "Positive"
+    }
+  }
+]
