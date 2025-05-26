@@ -1,6 +1,6 @@
 [
   {
-    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Influenza일 수 있습니다.",
+    "text": "증상: Fever, Fatigue, Difficulty Breathing이(가) 있고, 나이: 19세, 성별: Female, 혈압: Low, 콜레스테롤: Normal인 환자의 경우 Influenza일 수 있습니다.",
     "metadata": {
       "disease": "Influenza",
       "symptoms": [
@@ -16,7 +16,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Common Cold일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 25세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Common Cold일 수 있습니다.",
     "metadata": {
       "disease": "Common Cold",
       "symptoms": [
@@ -31,7 +31,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Eczema일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 25세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Eczema일 수 있습니다.",
     "metadata": {
       "disease": "Eczema",
       "symptoms": [
@@ -46,7 +46,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Fever, Cough, Difficulty Breathing이(가) 있고, 나이: 25세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -62,7 +62,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Fever, Cough, Difficulty Breathing이(가) 있고, 나이: 25세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -78,7 +78,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Eczema일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 25세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Eczema일 수 있습니다.",
     "metadata": {
       "disease": "Eczema",
       "symptoms": [
@@ -92,7 +92,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Influenza일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 25세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Influenza일 수 있습니다.",
     "metadata": {
       "disease": "Influenza",
       "symptoms": [
@@ -109,7 +109,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Influenza일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 25세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Influenza일 수 있습니다.",
     "metadata": {
       "disease": "Influenza",
       "symptoms": [
@@ -126,7 +126,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Hyperthyroidism일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 28세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Hyperthyroidism일 수 있습니다.",
     "metadata": {
       "disease": "Hyperthyroidism",
       "symptoms": [
@@ -140,7 +140,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Hyperthyroidism일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 28세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Hyperthyroidism일 수 있습니다.",
     "metadata": {
       "disease": "Hyperthyroidism",
       "symptoms": [
@@ -154,7 +154,7 @@
     }
   },
   {
-    "text": "Fever, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Fever, Difficulty Breathing이(가) 있고, 나이: 28세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -169,7 +169,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Allergic Rhinitis일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 29세, 성별: Female, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Allergic Rhinitis일 수 있습니다.",
     "metadata": {
       "disease": "Allergic Rhinitis",
       "symptoms": [
@@ -184,7 +184,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Anxiety Disorders일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 29세, 성별: Female, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Anxiety Disorders일 수 있습니다.",
     "metadata": {
       "disease": "Anxiety Disorders",
       "symptoms": [
@@ -198,7 +198,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Gastroenteritis일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 29세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Gastroenteritis일 수 있습니다.",
     "metadata": {
       "disease": "Gastroenteritis",
       "symptoms": [
@@ -212,7 +212,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Pancreatitis일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 29세, 성별: Female, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Pancreatitis일 수 있습니다.",
     "metadata": {
       "disease": "Pancreatitis",
       "symptoms": [
@@ -226,7 +226,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Rheumatoid Arthritis일 수 있습니다.",
+    "text": "증상: Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 29세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Rheumatoid Arthritis일 수 있습니다.",
     "metadata": {
       "disease": "Rheumatoid Arthritis",
       "symptoms": [
@@ -242,7 +242,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Depression일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 29세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Depression일 수 있습니다.",
     "metadata": {
       "disease": "Depression",
       "symptoms": [
@@ -259,7 +259,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Liver Cancer일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 29세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Liver Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Liver Cancer",
       "symptoms": [
@@ -276,7 +276,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Stroke일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 29세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Stroke일 수 있습니다.",
     "metadata": {
       "disease": "Stroke",
       "symptoms": [
@@ -293,7 +293,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Urinary Tract Infection일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 29세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Urinary Tract Infection일 수 있습니다.",
     "metadata": {
       "disease": "Urinary Tract Infection",
       "symptoms": [
@@ -309,7 +309,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Dengue Fever일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 30세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Dengue Fever일 수 있습니다.",
     "metadata": {
       "disease": "Dengue Fever",
       "symptoms": [
@@ -324,7 +324,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Dengue Fever일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 30세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Dengue Fever일 수 있습니다.",
     "metadata": {
       "disease": "Dengue Fever",
       "symptoms": [
@@ -339,7 +339,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Eczema일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 30세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Eczema일 수 있습니다.",
     "metadata": {
       "disease": "Eczema",
       "symptoms": [
@@ -354,7 +354,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Gastroenteritis일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 30세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Gastroenteritis일 수 있습니다.",
     "metadata": {
       "disease": "Gastroenteritis",
       "symptoms": [
@@ -370,7 +370,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Hepatitis일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 30세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Hepatitis일 수 있습니다.",
     "metadata": {
       "disease": "Hepatitis",
       "symptoms": [
@@ -387,7 +387,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Kidney Cancer일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 30세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Kidney Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Kidney Cancer",
       "symptoms": [
@@ -401,7 +401,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Migraine일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 30세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Migraine일 수 있습니다.",
     "metadata": {
       "disease": "Migraine",
       "symptoms": [
@@ -415,7 +415,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Migraine일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 30세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Migraine일 수 있습니다.",
     "metadata": {
       "disease": "Migraine",
       "symptoms": [
@@ -430,7 +430,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Muscular Dystrophy일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 30세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Muscular Dystrophy일 수 있습니다.",
     "metadata": {
       "disease": "Muscular Dystrophy",
       "symptoms": [
@@ -444,7 +444,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Sinusitis일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 30세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Sinusitis일 수 있습니다.",
     "metadata": {
       "disease": "Sinusitis",
       "symptoms": [
@@ -459,7 +459,7 @@
     }
   },
   {
-    "text": "Fever, Cough 증상이 있는 경우 Ulcerative Colitis일 수 있습니다.",
+    "text": "증상: Fever, Cough이(가) 있고, 나이: 30세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Ulcerative Colitis일 수 있습니다.",
     "metadata": {
       "disease": "Ulcerative Colitis",
       "symptoms": [
@@ -474,7 +474,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Ulcerative Colitis일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 30세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Ulcerative Colitis일 수 있습니다.",
     "metadata": {
       "disease": "Ulcerative Colitis",
       "symptoms": [
@@ -489,7 +489,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Fever, Cough, Difficulty Breathing이(가) 있고, 나이: 30세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -505,7 +505,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Fever, Cough, Difficulty Breathing이(가) 있고, 나이: 30세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -521,7 +521,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 30세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -538,7 +538,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Bipolar Disorder일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 30세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Bipolar Disorder일 수 있습니다.",
     "metadata": {
       "disease": "Bipolar Disorder",
       "symptoms": [
@@ -552,7 +552,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Bronchitis일 수 있습니다.",
+    "text": "증상: Fever, Cough, Difficulty Breathing이(가) 있고, 나이: 30세, 성별: Female, 혈압: Low, 콜레스테롤: Normal인 환자의 경우 Bronchitis일 수 있습니다.",
     "metadata": {
       "disease": "Bronchitis",
       "symptoms": [
@@ -568,7 +568,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Bronchitis일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 30세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Bronchitis일 수 있습니다.",
     "metadata": {
       "disease": "Bronchitis",
       "symptoms": [
@@ -585,7 +585,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Bronchitis일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 30세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Bronchitis일 수 있습니다.",
     "metadata": {
       "disease": "Bronchitis",
       "symptoms": [
@@ -602,7 +602,7 @@
     }
   },
   {
-    "text": "Fatigue, Difficulty Breathing 증상이 있는 경우 Cerebral Palsy일 수 있습니다.",
+    "text": "증상: Fatigue, Difficulty Breathing이(가) 있고, 나이: 30세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Cerebral Palsy일 수 있습니다.",
     "metadata": {
       "disease": "Cerebral Palsy",
       "symptoms": [
@@ -617,7 +617,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Colorectal Cancer일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 30세, 성별: Female, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Colorectal Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Colorectal Cancer",
       "symptoms": [
@@ -631,7 +631,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Eczema일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 30세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Eczema일 수 있습니다.",
     "metadata": {
       "disease": "Eczema",
       "symptoms": [
@@ -645,7 +645,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Hypertensive Heart Disease일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 30세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Hypertensive Heart Disease일 수 있습니다.",
     "metadata": {
       "disease": "Hypertensive Heart Disease",
       "symptoms": [
@@ -659,7 +659,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Influenza일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 30세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Influenza일 수 있습니다.",
     "metadata": {
       "disease": "Influenza",
       "symptoms": [
@@ -675,7 +675,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Influenza일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 30세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Influenza일 수 있습니다.",
     "metadata": {
       "disease": "Influenza",
       "symptoms": [
@@ -692,7 +692,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Multiple Sclerosis일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 30세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Multiple Sclerosis일 수 있습니다.",
     "metadata": {
       "disease": "Multiple Sclerosis",
       "symptoms": [
@@ -706,7 +706,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Myocardial Infarction (Heart...일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 30세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Myocardial Infarction (Heart...일 수 있습니다.",
     "metadata": {
       "disease": "Myocardial Infarction (Heart...",
       "symptoms": [
@@ -723,7 +723,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Urinary Tract Infection (UTI)일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 30세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Urinary Tract Infection (UTI)일 수 있습니다.",
     "metadata": {
       "disease": "Urinary Tract Infection (UTI)",
       "symptoms": [
@@ -737,7 +737,7 @@
     }
   },
   {
-    "text": "Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Difficulty Breathing이(가) 있고, 나이: 31세, 성별: Male, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -751,7 +751,7 @@
     }
   },
   {
-    "text": "Difficulty Breathing 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "text": "증상: Difficulty Breathing이(가) 있고, 나이: 31세, 성별: Male, 혈압: Low, 콜레스테롤: Normal인 환자의 경우 Osteoporosis일 수 있습니다.",
     "metadata": {
       "disease": "Osteoporosis",
       "symptoms": [
@@ -765,7 +765,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Common Cold일 수 있습니다.",
+    "text": "증상: Fever, Fatigue, Difficulty Breathing이(가) 있고, 나이: 31세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Common Cold일 수 있습니다.",
     "metadata": {
       "disease": "Common Cold",
       "symptoms": [
@@ -781,7 +781,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Migraine일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 31세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Migraine일 수 있습니다.",
     "metadata": {
       "disease": "Migraine",
       "symptoms": [
@@ -795,7 +795,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Pneumonia일 수 있습니다.",
+    "text": "증상: Fever, Fatigue, Difficulty Breathing이(가) 있고, 나이: 32세, 성별: Female, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Pneumonia일 수 있습니다.",
     "metadata": {
       "disease": "Pneumonia",
       "symptoms": [
@@ -811,7 +811,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Allergic Rhinitis일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 35세, 성별: Female, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Allergic Rhinitis일 수 있습니다.",
     "metadata": {
       "disease": "Allergic Rhinitis",
       "symptoms": [
@@ -825,7 +825,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 35세, 성별: Female, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -841,7 +841,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 35세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -858,7 +858,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 35세, 성별: Female, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -874,7 +874,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 35세, 성별: Female, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -890,7 +890,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Atherosclerosis일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 35세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Atherosclerosis일 수 있습니다.",
     "metadata": {
       "disease": "Atherosclerosis",
       "symptoms": [
@@ -904,7 +904,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Chronic Obstructive Pulmonary...일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 35세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Chronic Obstructive Pulmonary...일 수 있습니다.",
     "metadata": {
       "disease": "Chronic Obstructive Pulmonary...",
       "symptoms": [
@@ -921,7 +921,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Common Cold일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 35세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Common Cold일 수 있습니다.",
     "metadata": {
       "disease": "Common Cold",
       "symptoms": [
@@ -937,7 +937,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Eczema일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 35세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Eczema일 수 있습니다.",
     "metadata": {
       "disease": "Eczema",
       "symptoms": [
@@ -951,7 +951,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Epilepsy일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 35세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Epilepsy일 수 있습니다.",
     "metadata": {
       "disease": "Epilepsy",
       "symptoms": [
@@ -965,7 +965,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Hypertension일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 35세, 성별: Female, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Hypertension일 수 있습니다.",
     "metadata": {
       "disease": "Hypertension",
       "symptoms": [
@@ -981,7 +981,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Hyperthyroidism일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 35세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Hyperthyroidism일 수 있습니다.",
     "metadata": {
       "disease": "Hyperthyroidism",
       "symptoms": [
@@ -997,7 +997,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Obsessive-Compulsive Disorde...일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 35세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Obsessive-Compulsive Disorde...일 수 있습니다.",
     "metadata": {
       "disease": "Obsessive-Compulsive Disorde...",
       "symptoms": [
@@ -1011,7 +1011,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Pneumonia일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 35세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Pneumonia일 수 있습니다.",
     "metadata": {
       "disease": "Pneumonia",
       "symptoms": [
@@ -1028,7 +1028,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Pneumonia일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 35세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Pneumonia일 수 있습니다.",
     "metadata": {
       "disease": "Pneumonia",
       "symptoms": [
@@ -1045,7 +1045,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Psoriasis일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 35세, 성별: Female, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Psoriasis일 수 있습니다.",
     "metadata": {
       "disease": "Psoriasis",
       "symptoms": [
@@ -1059,7 +1059,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Psoriasis일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 35세, 성별: Female, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Psoriasis일 수 있습니다.",
     "metadata": {
       "disease": "Psoriasis",
       "symptoms": [
@@ -1074,7 +1074,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Rubella일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 35세, 성별: Female, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Rubella일 수 있습니다.",
     "metadata": {
       "disease": "Rubella",
       "symptoms": [
@@ -1089,7 +1089,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Rubella일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 35세, 성별: Female, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Rubella일 수 있습니다.",
     "metadata": {
       "disease": "Rubella",
       "symptoms": [
@@ -1104,7 +1104,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Urinary Tract Infection (UTI)일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 35세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Urinary Tract Infection (UTI)일 수 있습니다.",
     "metadata": {
       "disease": "Urinary Tract Infection (UTI)",
       "symptoms": [
@@ -1119,7 +1119,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Fever, Cough, Difficulty Breathing이(가) 있고, 나이: 35세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -1135,7 +1135,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Fever, Cough, Difficulty Breathing이(가) 있고, 나이: 35세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -1151,7 +1151,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Cirrhosis일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 35세, 성별: Female, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Cirrhosis일 수 있습니다.",
     "metadata": {
       "disease": "Cirrhosis",
       "symptoms": [
@@ -1165,7 +1165,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Conjunctivitis (Pink Eye)일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 35세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Conjunctivitis (Pink Eye)일 수 있습니다.",
     "metadata": {
       "disease": "Conjunctivitis (Pink Eye)",
       "symptoms": [
@@ -1179,7 +1179,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Depression일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 35세, 성별: Female, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Depression일 수 있습니다.",
     "metadata": {
       "disease": "Depression",
       "symptoms": [
@@ -1193,7 +1193,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Gastroenteritis일 수 있습니다.",
+    "text": "증상: Fever, Fatigue, Difficulty Breathing이(가) 있고, 나이: 35세, 성별: Male, 혈압: Low, 콜레스테롤: High인 환자의 경우 Gastroenteritis일 수 있습니다.",
     "metadata": {
       "disease": "Gastroenteritis",
       "symptoms": [
@@ -1209,7 +1209,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Hyperthyroidism일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 35세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Hyperthyroidism일 수 있습니다.",
     "metadata": {
       "disease": "Hyperthyroidism",
       "symptoms": [
@@ -1225,7 +1225,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Hyperthyroidism일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 35세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Hyperthyroidism일 수 있습니다.",
     "metadata": {
       "disease": "Hyperthyroidism",
       "symptoms": [
@@ -1241,7 +1241,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Kidney Cancer일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 35세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Kidney Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Kidney Cancer",
       "symptoms": [
@@ -1255,7 +1255,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Liver Cancer일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 35세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Liver Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Liver Cancer",
       "symptoms": [
@@ -1269,7 +1269,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Liver Disease일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 35세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Liver Disease일 수 있습니다.",
     "metadata": {
       "disease": "Liver Disease",
       "symptoms": [
@@ -1283,7 +1283,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Malaria일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 35세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Malaria일 수 있습니다.",
     "metadata": {
       "disease": "Malaria",
       "symptoms": [
@@ -1297,7 +1297,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Malaria일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 35세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Malaria일 수 있습니다.",
     "metadata": {
       "disease": "Malaria",
       "symptoms": [
@@ -1311,7 +1311,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Migraine일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 35세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Migraine일 수 있습니다.",
     "metadata": {
       "disease": "Migraine",
       "symptoms": [
@@ -1326,7 +1326,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Migraine일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 35세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Migraine일 수 있습니다.",
     "metadata": {
       "disease": "Migraine",
       "symptoms": [
@@ -1340,7 +1340,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Pancreatitis일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 35세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Pancreatitis일 수 있습니다.",
     "metadata": {
       "disease": "Pancreatitis",
       "symptoms": [
@@ -1354,7 +1354,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Rheumatoid Arthritis일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 35세, 성별: Male, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Rheumatoid Arthritis일 수 있습니다.",
     "metadata": {
       "disease": "Rheumatoid Arthritis",
       "symptoms": [
@@ -1370,7 +1370,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Rheumatoid Arthritis일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 35세, 성별: Female, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Rheumatoid Arthritis일 수 있습니다.",
     "metadata": {
       "disease": "Rheumatoid Arthritis",
       "symptoms": [
@@ -1384,7 +1384,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Spina Bifida일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 35세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Spina Bifida일 수 있습니다.",
     "metadata": {
       "disease": "Spina Bifida",
       "symptoms": [
@@ -1398,7 +1398,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Ulcerative Colitis일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 35세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Ulcerative Colitis일 수 있습니다.",
     "metadata": {
       "disease": "Ulcerative Colitis",
       "symptoms": [
@@ -1412,7 +1412,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Ulcerative Colitis일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 35세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Ulcerative Colitis일 수 있습니다.",
     "metadata": {
       "disease": "Ulcerative Colitis",
       "symptoms": [
@@ -1426,7 +1426,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Urinary Tract Infection일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 35세, 성별: Female, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Urinary Tract Infection일 수 있습니다.",
     "metadata": {
       "disease": "Urinary Tract Infection",
       "symptoms": [
@@ -1441,7 +1441,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Allergic Rhinitis일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 38세, 성별: Female, 혈압: Low, 콜레스테롤: Normal인 환자의 경우 Allergic Rhinitis일 수 있습니다.",
     "metadata": {
       "disease": "Allergic Rhinitis",
       "symptoms": [
@@ -1455,7 +1455,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Kidney Disease일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 38세, 성별: Female, 혈압: Low, 콜레스테롤: Normal인 환자의 경우 Kidney Disease일 수 있습니다.",
     "metadata": {
       "disease": "Kidney Disease",
       "symptoms": [
@@ -1469,7 +1469,7 @@
     }
   },
   {
-    "text": "Fever, Cough 증상이 있는 경우 Liver Cancer일 수 있습니다.",
+    "text": "증상: Fever, Cough이(가) 있고, 나이: 38세, 성별: Female, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Liver Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Liver Cancer",
       "symptoms": [
@@ -1484,7 +1484,7 @@
     }
   },
   {
-    "text": "Cough, Difficulty Breathing 증상이 있는 경우 Liver Disease일 수 있습니다.",
+    "text": "증상: Cough, Difficulty Breathing이(가) 있고, 나이: 38세, 성별: Male, 혈압: Low, 콜레스테롤: Normal인 환자의 경우 Liver Disease일 수 있습니다.",
     "metadata": {
       "disease": "Liver Disease",
       "symptoms": [
@@ -1499,7 +1499,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 38세, 성별: Female, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Osteoporosis일 수 있습니다.",
     "metadata": {
       "disease": "Osteoporosis",
       "symptoms": [
@@ -1513,7 +1513,7 @@
     }
   },
   {
-    "text": "Fever, Cough 증상이 있는 경우 Stroke일 수 있습니다.",
+    "text": "증상: Fever, Cough이(가) 있고, 나이: 38세, 성별: Female, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Stroke일 수 있습니다.",
     "metadata": {
       "disease": "Stroke",
       "symptoms": [
@@ -1528,7 +1528,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Anxiety Disorders일 수 있습니다.",
+    "text": "증상: Fever, Fatigue, Difficulty Breathing이(가) 있고, 나이: 38세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Anxiety Disorders일 수 있습니다.",
     "metadata": {
       "disease": "Anxiety Disorders",
       "symptoms": [
@@ -1544,7 +1544,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Diabetes일 수 있습니다.",
+    "text": "증상: Fever, Fatigue, Difficulty Breathing이(가) 있고, 나이: 38세, 성별: Male, 혈압: High, 콜레스테롤: Low인 환자의 경우 Diabetes일 수 있습니다.",
     "metadata": {
       "disease": "Diabetes",
       "symptoms": [
@@ -1560,7 +1560,7 @@
     }
   },
   {
-    "text": "Fever, Cough 증상이 있는 경우 Migraine일 수 있습니다.",
+    "text": "증상: Fever, Cough이(가) 있고, 나이: 38세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Migraine일 수 있습니다.",
     "metadata": {
       "disease": "Migraine",
       "symptoms": [
@@ -1575,7 +1575,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Osteoarthritis일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 38세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Osteoarthritis일 수 있습니다.",
     "metadata": {
       "disease": "Osteoarthritis",
       "symptoms": [
@@ -1591,7 +1591,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Pneumonia일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 38세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Pneumonia일 수 있습니다.",
     "metadata": {
       "disease": "Pneumonia",
       "symptoms": [
@@ -1608,7 +1608,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Klinefelter Syndrome일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 39세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Klinefelter Syndrome일 수 있습니다.",
     "metadata": {
       "disease": "Klinefelter Syndrome",
       "symptoms": [
@@ -1622,7 +1622,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Acne일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 40세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Acne일 수 있습니다.",
     "metadata": {
       "disease": "Acne",
       "symptoms": [
@@ -1636,7 +1636,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Brain Tumor일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 40세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Brain Tumor일 수 있습니다.",
     "metadata": {
       "disease": "Brain Tumor",
       "symptoms": [
@@ -1650,7 +1650,7 @@
     }
   },
   {
-    "text": "Cough, Difficulty Breathing 증상이 있는 경우 Bronchitis일 수 있습니다.",
+    "text": "증상: Cough, Difficulty Breathing이(가) 있고, 나이: 40세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Bronchitis일 수 있습니다.",
     "metadata": {
       "disease": "Bronchitis",
       "symptoms": [
@@ -1665,7 +1665,7 @@
     }
   },
   {
-    "text": "Fatigue, Difficulty Breathing 증상이 있는 경우 Cystic Fibrosis일 수 있습니다.",
+    "text": "증상: Fatigue, Difficulty Breathing이(가) 있고, 나이: 40세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Cystic Fibrosis일 수 있습니다.",
     "metadata": {
       "disease": "Cystic Fibrosis",
       "symptoms": [
@@ -1680,7 +1680,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Diabetes일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 40세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Diabetes일 수 있습니다.",
     "metadata": {
       "disease": "Diabetes",
       "symptoms": [
@@ -1694,7 +1694,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Glaucoma일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 40세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Glaucoma일 수 있습니다.",
     "metadata": {
       "disease": "Glaucoma",
       "symptoms": [
@@ -1708,7 +1708,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Osteoarthritis일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 40세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Osteoarthritis일 수 있습니다.",
     "metadata": {
       "disease": "Osteoarthritis",
       "symptoms": [
@@ -1722,7 +1722,7 @@
     }
   },
   {
-    "text": "Fever, Cough 증상이 있는 경우 Rabies일 수 있습니다.",
+    "text": "증상: Fever, Cough이(가) 있고, 나이: 40세, 성별: Female, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Rabies일 수 있습니다.",
     "metadata": {
       "disease": "Rabies",
       "symptoms": [
@@ -1737,7 +1737,7 @@
     }
   },
   {
-    "text": "Fever, Cough 증상이 있는 경우 Rabies일 수 있습니다.",
+    "text": "증상: Fever, Cough이(가) 있고, 나이: 40세, 성별: Female, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Rabies일 수 있습니다.",
     "metadata": {
       "disease": "Rabies",
       "symptoms": [
@@ -1752,7 +1752,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 40세, 성별: Male, 혈압: Low, 콜레스테롤: Normal인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -1767,7 +1767,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Fever, Cough, Difficulty Breathing이(가) 있고, 나이: 40세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -1783,7 +1783,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Fever, Cough, Difficulty Breathing이(가) 있고, 나이: 40세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -1799,7 +1799,7 @@
     }
   },
   {
-    "text": "Fatigue, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Fatigue, Difficulty Breathing이(가) 있고, 나이: 40세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -1814,7 +1814,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Fever, Fatigue, Difficulty Breathing이(가) 있고, 나이: 40세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -1830,7 +1830,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Fever, Fatigue, Difficulty Breathing이(가) 있고, 나이: 40세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -1846,7 +1846,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Chickenpox일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 40세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Chickenpox일 수 있습니다.",
     "metadata": {
       "disease": "Chickenpox",
       "symptoms": [
@@ -1860,7 +1860,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Chickenpox일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 40세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Chickenpox일 수 있습니다.",
     "metadata": {
       "disease": "Chickenpox",
       "symptoms": [
@@ -1874,7 +1874,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Coronary Artery Disease일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 40세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Coronary Artery Disease일 수 있습니다.",
     "metadata": {
       "disease": "Coronary Artery Disease",
       "symptoms": [
@@ -1888,7 +1888,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Eating Disorders (Anorexia,...일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 40세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Eating Disorders (Anorexia,...일 수 있습니다.",
     "metadata": {
       "disease": "Eating Disorders (Anorexia,...",
       "symptoms": [
@@ -1902,7 +1902,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Fibromyalgia일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 40세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Fibromyalgia일 수 있습니다.",
     "metadata": {
       "disease": "Fibromyalgia",
       "symptoms": [
@@ -1916,7 +1916,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Gastroenteritis일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 40세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Gastroenteritis일 수 있습니다.",
     "metadata": {
       "disease": "Gastroenteritis",
       "symptoms": [
@@ -1932,7 +1932,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Hemophilia일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 40세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Hemophilia일 수 있습니다.",
     "metadata": {
       "disease": "Hemophilia",
       "symptoms": [
@@ -1946,7 +1946,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Hyperthyroidism일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 40세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Hyperthyroidism일 수 있습니다.",
     "metadata": {
       "disease": "Hyperthyroidism",
       "symptoms": [
@@ -1960,7 +1960,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Hypoglycemia일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 40세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Hypoglycemia일 수 있습니다.",
     "metadata": {
       "disease": "Hypoglycemia",
       "symptoms": [
@@ -1974,7 +1974,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Lymphoma일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 40세, 성별: Female, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Lymphoma일 수 있습니다.",
     "metadata": {
       "disease": "Lymphoma",
       "symptoms": [
@@ -1988,7 +1988,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Pneumonia일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 40세, 성별: Female, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Pneumonia일 수 있습니다.",
     "metadata": {
       "disease": "Pneumonia",
       "symptoms": [
@@ -2005,7 +2005,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Psoriasis일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 40세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Psoriasis일 수 있습니다.",
     "metadata": {
       "disease": "Psoriasis",
       "symptoms": [
@@ -2020,7 +2020,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Psoriasis일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 40세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Psoriasis일 수 있습니다.",
     "metadata": {
       "disease": "Psoriasis",
       "symptoms": [
@@ -2034,7 +2034,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Psoriasis일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 40세, 성별: Female, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Psoriasis일 수 있습니다.",
     "metadata": {
       "disease": "Psoriasis",
       "symptoms": [
@@ -2048,7 +2048,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Tuberculosis일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 40세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Tuberculosis일 수 있습니다.",
     "metadata": {
       "disease": "Tuberculosis",
       "symptoms": [
@@ -2065,7 +2065,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Tuberculosis일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 40세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Tuberculosis일 수 있습니다.",
     "metadata": {
       "disease": "Tuberculosis",
       "symptoms": [
@@ -2082,7 +2082,7 @@
     }
   },
   {
-    "text": "Fever, Cough 증상이 있는 경우 Common Cold일 수 있습니다.",
+    "text": "증상: Fever, Cough이(가) 있고, 나이: 42세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Common Cold일 수 있습니다.",
     "metadata": {
       "disease": "Common Cold",
       "symptoms": [
@@ -2097,7 +2097,7 @@
     }
   },
   {
-    "text": "Fever, Difficulty Breathing 증상이 있는 경우 Depression일 수 있습니다.",
+    "text": "증상: Fever, Difficulty Breathing이(가) 있고, 나이: 42세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Depression일 수 있습니다.",
     "metadata": {
       "disease": "Depression",
       "symptoms": [
@@ -2112,7 +2112,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Influenza일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 42세, 성별: Female, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Influenza일 수 있습니다.",
     "metadata": {
       "disease": "Influenza",
       "symptoms": [
@@ -2126,7 +2126,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Kidney Cancer일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 42세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Kidney Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Kidney Cancer",
       "symptoms": [
@@ -2140,7 +2140,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Liver Cancer일 수 있습니다.",
+    "text": "증상: Fever, Fatigue, Difficulty Breathing이(가) 있고, 나이: 42세, 성별: Male, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Liver Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Liver Cancer",
       "symptoms": [
@@ -2156,7 +2156,7 @@
     }
   },
   {
-    "text": "Fever, Difficulty Breathing 증상이 있는 경우 Liver Disease일 수 있습니다.",
+    "text": "증상: Fever, Difficulty Breathing이(가) 있고, 나이: 42세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Liver Disease일 수 있습니다.",
     "metadata": {
       "disease": "Liver Disease",
       "symptoms": [
@@ -2171,7 +2171,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Lung Cancer일 수 있습니다.",
+    "text": "증상: Fever, Fatigue, Difficulty Breathing이(가) 있고, 나이: 42세, 성별: Male, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Lung Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Lung Cancer",
       "symptoms": [
@@ -2187,7 +2187,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Migraine일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 42세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Migraine일 수 있습니다.",
     "metadata": {
       "disease": "Migraine",
       "symptoms": [
@@ -2203,7 +2203,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Osteoarthritis일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 42세, 성별: Male, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Osteoarthritis일 수 있습니다.",
     "metadata": {
       "disease": "Osteoarthritis",
       "symptoms": [
@@ -2217,7 +2217,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Stroke일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 42세, 성별: Male, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Stroke일 수 있습니다.",
     "metadata": {
       "disease": "Stroke",
       "symptoms": [
@@ -2232,7 +2232,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Urinary Tract Infection일 수 있습니다.",
+    "text": "증상: Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 42세, 성별: Female, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Urinary Tract Infection일 수 있습니다.",
     "metadata": {
       "disease": "Urinary Tract Infection",
       "symptoms": [
@@ -2248,7 +2248,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Diabetes일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 42세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Diabetes일 수 있습니다.",
     "metadata": {
       "disease": "Diabetes",
       "symptoms": [
@@ -2264,7 +2264,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Hypothyroidism일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 42세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Hypothyroidism일 수 있습니다.",
     "metadata": {
       "disease": "Hypothyroidism",
       "symptoms": [
@@ -2280,7 +2280,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Hypothyroidism일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 42세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Hypothyroidism일 수 있습니다.",
     "metadata": {
       "disease": "Hypothyroidism",
       "symptoms": [
@@ -2296,7 +2296,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Kidney Disease일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 42세, 성별: Female, 혈압: High, 콜레스테롤: Low인 환자의 경우 Kidney Disease일 수 있습니다.",
     "metadata": {
       "disease": "Kidney Disease",
       "symptoms": [
@@ -2311,7 +2311,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Pneumonia일 수 있습니다.",
+    "text": "증상: Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 43세, 성별: Female, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Pneumonia일 수 있습니다.",
     "metadata": {
       "disease": "Pneumonia",
       "symptoms": [
@@ -2327,7 +2327,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Allergic Rhinitis일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 45세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Allergic Rhinitis일 수 있습니다.",
     "metadata": {
       "disease": "Allergic Rhinitis",
       "symptoms": [
@@ -2342,7 +2342,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Autism Spectrum Disorder (ASD)일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 45세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Autism Spectrum Disorder (ASD)일 수 있습니다.",
     "metadata": {
       "disease": "Autism Spectrum Disorder (ASD)",
       "symptoms": [
@@ -2356,7 +2356,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Crohn's Disease일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 45세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Crohn's Disease일 수 있습니다.",
     "metadata": {
       "disease": "Crohn's Disease",
       "symptoms": [
@@ -2371,7 +2371,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Hepatitis일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 45세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Hepatitis일 수 있습니다.",
     "metadata": {
       "disease": "Hepatitis",
       "symptoms": [
@@ -2386,7 +2386,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Hepatitis일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 45세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Hepatitis일 수 있습니다.",
     "metadata": {
       "disease": "Hepatitis",
       "symptoms": [
@@ -2401,7 +2401,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Hyperglycemia일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 45세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Hyperglycemia일 수 있습니다.",
     "metadata": {
       "disease": "Hyperglycemia",
       "symptoms": [
@@ -2415,7 +2415,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Kidney Cancer일 수 있습니다.",
+    "text": "증상: Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 45세, 성별: Male, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Kidney Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Kidney Cancer",
       "symptoms": [
@@ -2431,7 +2431,7 @@
     }
   },
   {
-    "text": "Fever, Cough 증상이 있는 경우 Kidney Disease일 수 있습니다.",
+    "text": "증상: Fever, Cough이(가) 있고, 나이: 45세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Kidney Disease일 수 있습니다.",
     "metadata": {
       "disease": "Kidney Disease",
       "symptoms": [
@@ -2446,7 +2446,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Melanoma일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 45세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Melanoma일 수 있습니다.",
     "metadata": {
       "disease": "Melanoma",
       "symptoms": [
@@ -2461,7 +2461,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Ovarian Cancer일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 45세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Ovarian Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Ovarian Cancer",
       "symptoms": [
@@ -2475,7 +2475,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Pancreatitis일 수 있습니다.",
+    "text": "증상: Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 45세, 성별: Male, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Pancreatitis일 수 있습니다.",
     "metadata": {
       "disease": "Pancreatitis",
       "symptoms": [
@@ -2491,7 +2491,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Rheumatoid Arthritis일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 45세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Rheumatoid Arthritis일 수 있습니다.",
     "metadata": {
       "disease": "Rheumatoid Arthritis",
       "symptoms": [
@@ -2505,7 +2505,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Stroke일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 45세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Stroke일 수 있습니다.",
     "metadata": {
       "disease": "Stroke",
       "symptoms": [
@@ -2519,7 +2519,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Turner Syndrome일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 45세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Turner Syndrome일 수 있습니다.",
     "metadata": {
       "disease": "Turner Syndrome",
       "symptoms": [
@@ -2533,7 +2533,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Turner Syndrome일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 45세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Turner Syndrome일 수 있습니다.",
     "metadata": {
       "disease": "Turner Syndrome",
       "symptoms": [
@@ -2547,7 +2547,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Zika Virus일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 45세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Zika Virus일 수 있습니다.",
     "metadata": {
       "disease": "Zika Virus",
       "symptoms": [
@@ -2562,7 +2562,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Zika Virus일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 45세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Zika Virus일 수 있습니다.",
     "metadata": {
       "disease": "Zika Virus",
       "symptoms": [
@@ -2577,7 +2577,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Allergic Rhinitis일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 45세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Allergic Rhinitis일 수 있습니다.",
     "metadata": {
       "disease": "Allergic Rhinitis",
       "symptoms": [
@@ -2593,7 +2593,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Anxiety Disorders일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 45세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Anxiety Disorders일 수 있습니다.",
     "metadata": {
       "disease": "Anxiety Disorders",
       "symptoms": [
@@ -2609,7 +2609,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Fever, Cough, Difficulty Breathing이(가) 있고, 나이: 45세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -2625,7 +2625,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Fever, Cough, Difficulty Breathing이(가) 있고, 나이: 45세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -2641,7 +2641,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Cataracts일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 45세, 성별: Female, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Cataracts일 수 있습니다.",
     "metadata": {
       "disease": "Cataracts",
       "symptoms": [
@@ -2655,7 +2655,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Crohn's Disease일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 45세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Crohn's Disease일 수 있습니다.",
     "metadata": {
       "disease": "Crohn's Disease",
       "symptoms": [
@@ -2669,7 +2669,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Crohn's Disease일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 45세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Crohn's Disease일 수 있습니다.",
     "metadata": {
       "disease": "Crohn's Disease",
       "symptoms": [
@@ -2685,7 +2685,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Depression일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 45세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Depression일 수 있습니다.",
     "metadata": {
       "disease": "Depression",
       "symptoms": [
@@ -2699,7 +2699,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Diabetes일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 45세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Diabetes일 수 있습니다.",
     "metadata": {
       "disease": "Diabetes",
       "symptoms": [
@@ -2714,7 +2714,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Diabetes일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 45세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Diabetes일 수 있습니다.",
     "metadata": {
       "disease": "Diabetes",
       "symptoms": [
@@ -2729,7 +2729,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Hypertension일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 45세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Hypertension일 수 있습니다.",
     "metadata": {
       "disease": "Hypertension",
       "symptoms": [
@@ -2744,7 +2744,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Hypothyroidism일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 45세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Hypothyroidism일 수 있습니다.",
     "metadata": {
       "disease": "Hypothyroidism",
       "symptoms": [
@@ -2758,7 +2758,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Liver Disease일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 45세, 성별: Female, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Liver Disease일 수 있습니다.",
     "metadata": {
       "disease": "Liver Disease",
       "symptoms": [
@@ -2774,7 +2774,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Multiple Sclerosis일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 45세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Multiple Sclerosis일 수 있습니다.",
     "metadata": {
       "disease": "Multiple Sclerosis",
       "symptoms": [
@@ -2788,7 +2788,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Multiple Sclerosis일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 45세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Multiple Sclerosis일 수 있습니다.",
     "metadata": {
       "disease": "Multiple Sclerosis",
       "symptoms": [
@@ -2802,7 +2802,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Osteoarthritis일 수 있습니다.",
+    "text": "증상: Fever, Fatigue, Difficulty Breathing이(가) 있고, 나이: 45세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Osteoarthritis일 수 있습니다.",
     "metadata": {
       "disease": "Osteoarthritis",
       "symptoms": [
@@ -2818,7 +2818,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 45세, 성별: Female, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Osteoporosis일 수 있습니다.",
     "metadata": {
       "disease": "Osteoporosis",
       "symptoms": [
@@ -2834,7 +2834,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Pneumocystis Pneumonia (PCP)일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 45세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Pneumocystis Pneumonia (PCP)일 수 있습니다.",
     "metadata": {
       "disease": "Pneumocystis Pneumonia (PCP)",
       "symptoms": [
@@ -2850,7 +2850,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Pneumonia일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 45세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Pneumonia일 수 있습니다.",
     "metadata": {
       "disease": "Pneumonia",
       "symptoms": [
@@ -2867,7 +2867,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Sickle Cell Anemia일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 45세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Sickle Cell Anemia일 수 있습니다.",
     "metadata": {
       "disease": "Sickle Cell Anemia",
       "symptoms": [
@@ -2881,7 +2881,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Tetanus일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 45세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Tetanus일 수 있습니다.",
     "metadata": {
       "disease": "Tetanus",
       "symptoms": [
@@ -2895,7 +2895,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Tetanus일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 45세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Tetanus일 수 있습니다.",
     "metadata": {
       "disease": "Tetanus",
       "symptoms": [
@@ -2909,7 +2909,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Hypothyroidism일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 48세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Hypothyroidism일 수 있습니다.",
     "metadata": {
       "disease": "Hypothyroidism",
       "symptoms": [
@@ -2923,7 +2923,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Hypothyroidism일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 48세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Hypothyroidism일 수 있습니다.",
     "metadata": {
       "disease": "Hypothyroidism",
       "symptoms": [
@@ -2937,7 +2937,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Allergic Rhinitis일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 50세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Allergic Rhinitis일 수 있습니다.",
     "metadata": {
       "disease": "Allergic Rhinitis",
       "symptoms": [
@@ -2951,7 +2951,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Anemia일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 50세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Anemia일 수 있습니다.",
     "metadata": {
       "disease": "Anemia",
       "symptoms": [
@@ -2965,7 +2965,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Anxiety Disorders일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 50세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Anxiety Disorders일 수 있습니다.",
     "metadata": {
       "disease": "Anxiety Disorders",
       "symptoms": [
@@ -2979,7 +2979,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Cholera일 수 있습니다.",
+    "text": "증상: Fever, Fatigue, Difficulty Breathing이(가) 있고, 나이: 50세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Cholera일 수 있습니다.",
     "metadata": {
       "disease": "Cholera",
       "symptoms": [
@@ -2995,7 +2995,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Cholera일 수 있습니다.",
+    "text": "증상: Fever, Fatigue, Difficulty Breathing이(가) 있고, 나이: 50세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Cholera일 수 있습니다.",
     "metadata": {
       "disease": "Cholera",
       "symptoms": [
@@ -3011,7 +3011,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Crohn's Disease일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 50세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Crohn's Disease일 수 있습니다.",
     "metadata": {
       "disease": "Crohn's Disease",
       "symptoms": [
@@ -3027,7 +3027,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Crohn's Disease일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 50세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Crohn's Disease일 수 있습니다.",
     "metadata": {
       "disease": "Crohn's Disease",
       "symptoms": [
@@ -3041,7 +3041,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Depression일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 50세, 성별: Female, 혈압: Low, 콜레스테롤: Low인 환자의 경우 Depression일 수 있습니다.",
     "metadata": {
       "disease": "Depression",
       "symptoms": [
@@ -3056,7 +3056,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Diabetes일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 50세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Diabetes일 수 있습니다.",
     "metadata": {
       "disease": "Diabetes",
       "symptoms": [
@@ -3070,7 +3070,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Endometriosis일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 50세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Endometriosis일 수 있습니다.",
     "metadata": {
       "disease": "Endometriosis",
       "symptoms": [
@@ -3084,7 +3084,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Hypertension일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 50세, 성별: Female, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Hypertension일 수 있습니다.",
     "metadata": {
       "disease": "Hypertension",
       "symptoms": [
@@ -3098,7 +3098,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Hypothyroidism일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 50세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Hypothyroidism일 수 있습니다.",
     "metadata": {
       "disease": "Hypothyroidism",
       "symptoms": [
@@ -3114,7 +3114,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Kidney Cancer일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 50세, 성별: Male, 혈압: Low, 콜레스테롤: High인 환자의 경우 Kidney Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Kidney Cancer",
       "symptoms": [
@@ -3128,7 +3128,7 @@
     }
   },
   {
-    "text": "Cough, Difficulty Breathing 증상이 있는 경우 Kidney Disease일 수 있습니다.",
+    "text": "증상: Cough, Difficulty Breathing이(가) 있고, 나이: 50세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Kidney Disease일 수 있습니다.",
     "metadata": {
       "disease": "Kidney Disease",
       "symptoms": [
@@ -3143,7 +3143,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Pancreatitis일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 50세, 성별: Male, 혈압: Low, 콜레스테롤: High인 환자의 경우 Pancreatitis일 수 있습니다.",
     "metadata": {
       "disease": "Pancreatitis",
       "symptoms": [
@@ -3157,7 +3157,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Rheumatoid Arthritis일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 50세, 성별: Female, 혈압: Low, 콜레스테롤: Normal인 환자의 경우 Rheumatoid Arthritis일 수 있습니다.",
     "metadata": {
       "disease": "Rheumatoid Arthritis",
       "symptoms": [
@@ -3171,7 +3171,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Sepsis일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 50세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Sepsis일 수 있습니다.",
     "metadata": {
       "disease": "Sepsis",
       "symptoms": [
@@ -3187,7 +3187,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Sleep Apnea일 수 있습니다.",
+    "text": "증상: Fever, Fatigue, Difficulty Breathing이(가) 있고, 나이: 50세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Sleep Apnea일 수 있습니다.",
     "metadata": {
       "disease": "Sleep Apnea",
       "symptoms": [
@@ -3203,7 +3203,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Urinary Tract Infection일 수 있습니다.",
+    "text": "증상: Fever, Cough, Difficulty Breathing이(가) 있고, 나이: 50세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Urinary Tract Infection일 수 있습니다.",
     "metadata": {
       "disease": "Urinary Tract Infection",
       "symptoms": [
@@ -3219,7 +3219,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 50세, 성별: Female, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -3236,7 +3236,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Bronchitis일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 50세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Bronchitis일 수 있습니다.",
     "metadata": {
       "disease": "Bronchitis",
       "symptoms": [
@@ -3253,7 +3253,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Down Syndrome일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 50세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Down Syndrome일 수 있습니다.",
     "metadata": {
       "disease": "Down Syndrome",
       "symptoms": [
@@ -3267,7 +3267,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Ebola Virus일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 50세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Ebola Virus일 수 있습니다.",
     "metadata": {
       "disease": "Ebola Virus",
       "symptoms": [
@@ -3284,7 +3284,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Ebola Virus일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 50세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Ebola Virus일 수 있습니다.",
     "metadata": {
       "disease": "Ebola Virus",
       "symptoms": [
@@ -3301,7 +3301,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Eczema일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 50세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Eczema일 수 있습니다.",
     "metadata": {
       "disease": "Eczema",
       "symptoms": [
@@ -3315,7 +3315,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Gastroenteritis일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 50세, 성별: Female, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Gastroenteritis일 수 있습니다.",
     "metadata": {
       "disease": "Gastroenteritis",
       "symptoms": [
@@ -3332,7 +3332,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Klinefelter Syndrome일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 50세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Klinefelter Syndrome일 수 있습니다.",
     "metadata": {
       "disease": "Klinefelter Syndrome",
       "symptoms": [
@@ -3346,7 +3346,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Liver Cancer일 수 있습니다.",
+    "text": "증상: Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 50세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Liver Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Liver Cancer",
       "symptoms": [
@@ -3362,7 +3362,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Lyme Disease일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 50세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Lyme Disease일 수 있습니다.",
     "metadata": {
       "disease": "Lyme Disease",
       "symptoms": [
@@ -3376,7 +3376,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Lyme Disease일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 50세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Lyme Disease일 수 있습니다.",
     "metadata": {
       "disease": "Lyme Disease",
       "symptoms": [
@@ -3390,7 +3390,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Pancreatic Cancer일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 50세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Pancreatic Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Pancreatic Cancer",
       "symptoms": [
@@ -3404,7 +3404,7 @@
     }
   },
   {
-    "text": "Fatigue, Difficulty Breathing 증상이 있는 경우 Pneumothorax일 수 있습니다.",
+    "text": "증상: Fatigue, Difficulty Breathing이(가) 있고, 나이: 50세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Pneumothorax일 수 있습니다.",
     "metadata": {
       "disease": "Pneumothorax",
       "symptoms": [
@@ -3419,7 +3419,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Stroke일 수 있습니다.",
+    "text": "증상: Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 50세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Stroke일 수 있습니다.",
     "metadata": {
       "disease": "Stroke",
       "symptoms": [
@@ -3435,7 +3435,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Ulcerative Colitis일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 50세, 성별: Female, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Ulcerative Colitis일 수 있습니다.",
     "metadata": {
       "disease": "Ulcerative Colitis",
       "symptoms": [
@@ -3450,7 +3450,7 @@
     }
   },
   {
-    "text": "Fever, Cough 증상이 있는 경우 Hypertension일 수 있습니다.",
+    "text": "증상: Fever, Cough이(가) 있고, 나이: 52세, 성별: Male, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Hypertension일 수 있습니다.",
     "metadata": {
       "disease": "Hypertension",
       "symptoms": [
@@ -3465,7 +3465,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Multiple Sclerosis일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 52세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Multiple Sclerosis일 수 있습니다.",
     "metadata": {
       "disease": "Multiple Sclerosis",
       "symptoms": [
@@ -3480,7 +3480,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Multiple Sclerosis일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 52세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Multiple Sclerosis일 수 있습니다.",
     "metadata": {
       "disease": "Multiple Sclerosis",
       "symptoms": [
@@ -3495,7 +3495,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Appendicitis일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 55세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Appendicitis일 수 있습니다.",
     "metadata": {
       "disease": "Appendicitis",
       "symptoms": [
@@ -3510,7 +3510,7 @@
     }
   },
   {
-    "text": "Fatigue, Difficulty Breathing 증상이 있는 경우 Bronchitis일 수 있습니다.",
+    "text": "증상: Fatigue, Difficulty Breathing이(가) 있고, 나이: 55세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Bronchitis일 수 있습니다.",
     "metadata": {
       "disease": "Bronchitis",
       "symptoms": [
@@ -3525,7 +3525,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Bronchitis일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 55세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Bronchitis일 수 있습니다.",
     "metadata": {
       "disease": "Bronchitis",
       "symptoms": [
@@ -3542,7 +3542,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Common Cold일 수 있습니다.",
+    "text": "증상: Fever, Fatigue, Difficulty Breathing이(가) 있고, 나이: 55세, 성별: Male, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Common Cold일 수 있습니다.",
     "metadata": {
       "disease": "Common Cold",
       "symptoms": [
@@ -3558,7 +3558,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Diabetes일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 55세, 성별: Female, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Diabetes일 수 있습니다.",
     "metadata": {
       "disease": "Diabetes",
       "symptoms": [
@@ -3572,7 +3572,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Esophageal Cancer일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 55세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Esophageal Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Esophageal Cancer",
       "symptoms": [
@@ -3586,7 +3586,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 HIV/AIDS일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 55세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 HIV/AIDS일 수 있습니다.",
     "metadata": {
       "disease": "HIV/AIDS",
       "symptoms": [
@@ -3600,7 +3600,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 HIV/AIDS일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 55세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 HIV/AIDS일 수 있습니다.",
     "metadata": {
       "disease": "HIV/AIDS",
       "symptoms": [
@@ -3614,7 +3614,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Hypertension일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 55세, 성별: Female, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Hypertension일 수 있습니다.",
     "metadata": {
       "disease": "Hypertension",
       "symptoms": [
@@ -3628,7 +3628,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Liver Disease일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 55세, 성별: Male, 혈압: High, 콜레스테롤: Low인 환자의 경우 Liver Disease일 수 있습니다.",
     "metadata": {
       "disease": "Liver Disease",
       "symptoms": [
@@ -3643,7 +3643,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Marfan Syndrome일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 55세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Marfan Syndrome일 수 있습니다.",
     "metadata": {
       "disease": "Marfan Syndrome",
       "symptoms": [
@@ -3657,7 +3657,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Migraine일 수 있습니다.",
+    "text": "증상: Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 55세, 성별: Female, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Migraine일 수 있습니다.",
     "metadata": {
       "disease": "Migraine",
       "symptoms": [
@@ -3673,7 +3673,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 55세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Osteoporosis일 수 있습니다.",
     "metadata": {
       "disease": "Osteoporosis",
       "symptoms": [
@@ -3687,7 +3687,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Parkinson's Disease일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 55세, 성별: Female, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Parkinson's Disease일 수 있습니다.",
     "metadata": {
       "disease": "Parkinson's Disease",
       "symptoms": [
@@ -3701,7 +3701,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Parkinson's Disease일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 55세, 성별: Female, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Parkinson's Disease일 수 있습니다.",
     "metadata": {
       "disease": "Parkinson's Disease",
       "symptoms": [
@@ -3715,7 +3715,7 @@
     }
   },
   {
-    "text": "Fever, Cough 증상이 있는 경우 Anxiety Disorders일 수 있습니다.",
+    "text": "증상: Fever, Cough이(가) 있고, 나이: 55세, 성별: Female, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Anxiety Disorders일 수 있습니다.",
     "metadata": {
       "disease": "Anxiety Disorders",
       "symptoms": [
@@ -3730,7 +3730,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Coronary Artery Disease일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 55세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Coronary Artery Disease일 수 있습니다.",
     "metadata": {
       "disease": "Coronary Artery Disease",
       "symptoms": [
@@ -3744,7 +3744,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Coronary Artery Disease일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 55세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Coronary Artery Disease일 수 있습니다.",
     "metadata": {
       "disease": "Coronary Artery Disease",
       "symptoms": [
@@ -3758,7 +3758,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Hypertension일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 55세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Hypertension일 수 있습니다.",
     "metadata": {
       "disease": "Hypertension",
       "symptoms": [
@@ -3773,7 +3773,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Hypothyroidism일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 55세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Hypothyroidism일 수 있습니다.",
     "metadata": {
       "disease": "Hypothyroidism",
       "symptoms": [
@@ -3787,7 +3787,7 @@
     }
   },
   {
-    "text": "Fever, Cough 증상이 있는 경우 Osteoarthritis일 수 있습니다.",
+    "text": "증상: Fever, Cough이(가) 있고, 나이: 55세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Osteoarthritis일 수 있습니다.",
     "metadata": {
       "disease": "Osteoarthritis",
       "symptoms": [
@@ -3802,7 +3802,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "text": "증상: Fever, Fatigue, Difficulty Breathing이(가) 있고, 나이: 55세, 성별: Male, 혈압: High, 콜레스테롤: Low인 환자의 경우 Osteoporosis일 수 있습니다.",
     "metadata": {
       "disease": "Osteoporosis",
       "symptoms": [
@@ -3818,7 +3818,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 55세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Osteoporosis일 수 있습니다.",
     "metadata": {
       "disease": "Osteoporosis",
       "symptoms": [
@@ -3833,7 +3833,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 55세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Osteoporosis일 수 있습니다.",
     "metadata": {
       "disease": "Osteoporosis",
       "symptoms": [
@@ -3848,7 +3848,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 55세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Osteoporosis일 수 있습니다.",
     "metadata": {
       "disease": "Osteoporosis",
       "symptoms": [
@@ -3863,7 +3863,7 @@
     }
   },
   {
-    "text": "Fever, Cough 증상이 있는 경우 Polycystic Ovary Syndrome (PCOS)일 수 있습니다.",
+    "text": "증상: Fever, Cough이(가) 있고, 나이: 55세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Polycystic Ovary Syndrome (PCOS)일 수 있습니다.",
     "metadata": {
       "disease": "Polycystic Ovary Syndrome (PCOS)",
       "symptoms": [
@@ -3878,7 +3878,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Systemic Lupus Erythematosus...일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 55세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Systemic Lupus Erythematosus...일 수 있습니다.",
     "metadata": {
       "disease": "Systemic Lupus Erythematosus...",
       "symptoms": [
@@ -3893,7 +3893,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Typhoid Fever일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 55세, 성별: Male, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Typhoid Fever일 수 있습니다.",
     "metadata": {
       "disease": "Typhoid Fever",
       "symptoms": [
@@ -3907,7 +3907,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Typhoid Fever일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 55세, 성별: Male, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Typhoid Fever일 수 있습니다.",
     "metadata": {
       "disease": "Typhoid Fever",
       "symptoms": [
@@ -3921,7 +3921,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Influenza일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 56세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Influenza일 수 있습니다.",
     "metadata": {
       "disease": "Influenza",
       "symptoms": [
@@ -3938,7 +3938,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Difficulty Breathing 증상이 있는 경우 Pneumonia일 수 있습니다.",
+    "text": "증상: Fever, Cough, Difficulty Breathing이(가) 있고, 나이: 57세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Pneumonia일 수 있습니다.",
     "metadata": {
       "disease": "Pneumonia",
       "symptoms": [
@@ -3954,7 +3954,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Breast Cancer일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 60세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Breast Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Breast Cancer",
       "symptoms": [
@@ -3968,7 +3968,7 @@
     }
   },
   {
-    "text": "Fever, Cough 증상이 있는 경우 Coronary Artery Disease일 수 있습니다.",
+    "text": "증상: Fever, Cough이(가) 있고, 나이: 60세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Coronary Artery Disease일 수 있습니다.",
     "metadata": {
       "disease": "Coronary Artery Disease",
       "symptoms": [
@@ -3983,7 +3983,7 @@
     }
   },
   {
-    "text": "Fever, Cough 증상이 있는 경우 Coronary Artery Disease일 수 있습니다.",
+    "text": "증상: Fever, Cough이(가) 있고, 나이: 60세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Coronary Artery Disease일 수 있습니다.",
     "metadata": {
       "disease": "Coronary Artery Disease",
       "symptoms": [
@@ -3998,7 +3998,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Hyperthyroidism일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 60세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Hyperthyroidism일 수 있습니다.",
     "metadata": {
       "disease": "Hyperthyroidism",
       "symptoms": [
@@ -4012,7 +4012,7 @@
     }
   },
   {
-    "text": "Fever, Cough 증상이 있는 경우 Measles일 수 있습니다.",
+    "text": "증상: Fever, Cough이(가) 있고, 나이: 60세, 성별: Female, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Measles일 수 있습니다.",
     "metadata": {
       "disease": "Measles",
       "symptoms": [
@@ -4027,7 +4027,7 @@
     }
   },
   {
-    "text": "Fever, Cough 증상이 있는 경우 Measles일 수 있습니다.",
+    "text": "증상: Fever, Cough이(가) 있고, 나이: 60세, 성별: Female, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Measles일 수 있습니다.",
     "metadata": {
       "disease": "Measles",
       "symptoms": [
@@ -4042,7 +4042,7 @@
     }
   },
   {
-    "text": "Cough, Difficulty Breathing 증상이 있는 경우 Osteoarthritis일 수 있습니다.",
+    "text": "증상: Cough, Difficulty Breathing이(가) 있고, 나이: 60세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Osteoarthritis일 수 있습니다.",
     "metadata": {
       "disease": "Osteoarthritis",
       "symptoms": [
@@ -4057,7 +4057,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Osteomyelitis일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 60세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Osteomyelitis일 수 있습니다.",
     "metadata": {
       "disease": "Osteomyelitis",
       "symptoms": [
@@ -4071,7 +4071,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 60세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Osteoporosis일 수 있습니다.",
     "metadata": {
       "disease": "Osteoporosis",
       "symptoms": [
@@ -4085,7 +4085,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 60세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Osteoporosis일 수 있습니다.",
     "metadata": {
       "disease": "Osteoporosis",
       "symptoms": [
@@ -4099,7 +4099,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 60세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Osteoporosis일 수 있습니다.",
     "metadata": {
       "disease": "Osteoporosis",
       "symptoms": [
@@ -4113,7 +4113,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Polio일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 60세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Polio일 수 있습니다.",
     "metadata": {
       "disease": "Polio",
       "symptoms": [
@@ -4129,7 +4129,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Asthma일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 60세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Asthma일 수 있습니다.",
     "metadata": {
       "disease": "Asthma",
       "symptoms": [
@@ -4146,7 +4146,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Chronic Kidney Disease일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 60세, 성별: Female, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Chronic Kidney Disease일 수 있습니다.",
     "metadata": {
       "disease": "Chronic Kidney Disease",
       "symptoms": [
@@ -4160,7 +4160,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Hemophilia일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 60세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Hemophilia일 수 있습니다.",
     "metadata": {
       "disease": "Hemophilia",
       "symptoms": [
@@ -4174,7 +4174,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Hepatitis B일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 60세, 성별: Male, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Hepatitis B일 수 있습니다.",
     "metadata": {
       "disease": "Hepatitis B",
       "symptoms": [
@@ -4189,7 +4189,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Hepatitis B일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 60세, 성별: Male, 혈압: Normal, 콜레스테롤: Low인 환자의 경우 Hepatitis B일 수 있습니다.",
     "metadata": {
       "disease": "Hepatitis B",
       "symptoms": [
@@ -4204,7 +4204,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Hypertension일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 60세, 성별: Female, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Hypertension일 수 있습니다.",
     "metadata": {
       "disease": "Hypertension",
       "symptoms": [
@@ -4218,7 +4218,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Hypertension일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 60세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Hypertension일 수 있습니다.",
     "metadata": {
       "disease": "Hypertension",
       "symptoms": [
@@ -4233,7 +4233,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Kidney Cancer일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 60세, 성별: Female, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Kidney Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Kidney Cancer",
       "symptoms": [
@@ -4249,7 +4249,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Kidney Disease일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 60세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Kidney Disease일 수 있습니다.",
     "metadata": {
       "disease": "Kidney Disease",
       "symptoms": [
@@ -4266,7 +4266,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 60세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Osteoporosis일 수 있습니다.",
     "metadata": {
       "disease": "Osteoporosis",
       "symptoms": [
@@ -4281,7 +4281,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Pancreatitis일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 60세, 성별: Female, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Pancreatitis일 수 있습니다.",
     "metadata": {
       "disease": "Pancreatitis",
       "symptoms": [
@@ -4297,7 +4297,7 @@
     }
   },
   {
-    "text": "Fever, Cough 증상이 있는 경우 Parkinson's Disease일 수 있습니다.",
+    "text": "증상: Fever, Cough이(가) 있고, 나이: 60세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Parkinson's Disease일 수 있습니다.",
     "metadata": {
       "disease": "Parkinson's Disease",
       "symptoms": [
@@ -4312,7 +4312,7 @@
     }
   },
   {
-    "text": "Fever, Cough 증상이 있는 경우 Parkinson's Disease일 수 있습니다.",
+    "text": "증상: Fever, Cough이(가) 있고, 나이: 60세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Parkinson's Disease일 수 있습니다.",
     "metadata": {
       "disease": "Parkinson's Disease",
       "symptoms": [
@@ -4327,7 +4327,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Prader-Willi Syndrome일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 60세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Prader-Willi Syndrome일 수 있습니다.",
     "metadata": {
       "disease": "Prader-Willi Syndrome",
       "symptoms": [
@@ -4341,7 +4341,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Rheumatoid Arthritis일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 60세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Rheumatoid Arthritis일 수 있습니다.",
     "metadata": {
       "disease": "Rheumatoid Arthritis",
       "symptoms": [
@@ -4355,7 +4355,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Thyroid Cancer일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 60세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Thyroid Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Thyroid Cancer",
       "symptoms": [
@@ -4369,7 +4369,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Tuberculosis일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 60세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Tuberculosis일 수 있습니다.",
     "metadata": {
       "disease": "Tuberculosis",
       "symptoms": [
@@ -4385,7 +4385,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Bladder Cancer일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 65세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Bladder Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Bladder Cancer",
       "symptoms": [
@@ -4399,7 +4399,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Diabetes일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 65세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Diabetes일 수 있습니다.",
     "metadata": {
       "disease": "Diabetes",
       "symptoms": [
@@ -4413,7 +4413,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Otitis Media (Ear Infection)일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 65세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Otitis Media (Ear Infection)일 수 있습니다.",
     "metadata": {
       "disease": "Otitis Media (Ear Infection)",
       "symptoms": [
@@ -4429,7 +4429,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Stroke일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 65세, 성별: Female, 혈압: High, 콜레스테롤: Low인 환자의 경우 Stroke일 수 있습니다.",
     "metadata": {
       "disease": "Stroke",
       "symptoms": [
@@ -4444,7 +4444,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Stroke일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 65세, 성별: Female, 혈압: High, 콜레스테롤: Low인 환자의 경우 Stroke일 수 있습니다.",
     "metadata": {
       "disease": "Stroke",
       "symptoms": [
@@ -4459,7 +4459,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Tourette Syndrome일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 65세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Tourette Syndrome일 수 있습니다.",
     "metadata": {
       "disease": "Tourette Syndrome",
       "symptoms": [
@@ -4473,7 +4473,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Urinary Tract Infection (UTI)일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 65세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Urinary Tract Infection (UTI)일 수 있습니다.",
     "metadata": {
       "disease": "Urinary Tract Infection (UTI)",
       "symptoms": [
@@ -4488,7 +4488,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Alzheimer's Disease일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 65세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Alzheimer's Disease일 수 있습니다.",
     "metadata": {
       "disease": "Alzheimer's Disease",
       "symptoms": [
@@ -4502,7 +4502,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Alzheimer's Disease일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 65세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Alzheimer's Disease일 수 있습니다.",
     "metadata": {
       "disease": "Alzheimer's Disease",
       "symptoms": [
@@ -4516,7 +4516,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Alzheimer's Disease일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 65세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Alzheimer's Disease일 수 있습니다.",
     "metadata": {
       "disease": "Alzheimer's Disease",
       "symptoms": [
@@ -4530,7 +4530,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Bronchitis일 수 있습니다.",
+    "text": "증상: Fever, Fatigue, Difficulty Breathing이(가) 있고, 나이: 65세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Bronchitis일 수 있습니다.",
     "metadata": {
       "disease": "Bronchitis",
       "symptoms": [
@@ -4546,7 +4546,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Chronic Obstructive Pulmonary Disease (COPD)일 수 있습니다.",
+    "text": "증상: Fever, Fatigue, Difficulty Breathing이(가) 있고, 나이: 65세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Chronic Obstructive Pulmonary Disease (COPD)일 수 있습니다.",
     "metadata": {
       "disease": "Chronic Obstructive Pulmonary Disease (COPD)",
       "symptoms": [
@@ -4562,7 +4562,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue, Difficulty Breathing 증상이 있는 경우 Chronic Obstructive Pulmonary Disease (COPD)일 수 있습니다.",
+    "text": "증상: Fever, Fatigue, Difficulty Breathing이(가) 있고, 나이: 65세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Chronic Obstructive Pulmonary Disease (COPD)일 수 있습니다.",
     "metadata": {
       "disease": "Chronic Obstructive Pulmonary Disease (COPD)",
       "symptoms": [
@@ -4578,7 +4578,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Dementia일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 65세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Dementia일 수 있습니다.",
     "metadata": {
       "disease": "Dementia",
       "symptoms": [
@@ -4592,7 +4592,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Diabetes일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 65세, 성별: Female, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Diabetes일 수 있습니다.",
     "metadata": {
       "disease": "Diabetes",
       "symptoms": [
@@ -4608,7 +4608,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Diverticulitis일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 65세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Diverticulitis일 수 있습니다.",
     "metadata": {
       "disease": "Diverticulitis",
       "symptoms": [
@@ -4622,7 +4622,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Liver Cancer일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 65세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Liver Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Liver Cancer",
       "symptoms": [
@@ -4638,7 +4638,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Lung Cancer일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 65세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Lung Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Lung Cancer",
       "symptoms": [
@@ -4654,7 +4654,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Lung Cancer일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 65세, 성별: Female, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Lung Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Lung Cancer",
       "symptoms": [
@@ -4669,7 +4669,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Mumps일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 65세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Mumps일 수 있습니다.",
     "metadata": {
       "disease": "Mumps",
       "symptoms": [
@@ -4683,7 +4683,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Mumps일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 65세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Mumps일 수 있습니다.",
     "metadata": {
       "disease": "Mumps",
       "symptoms": [
@@ -4697,7 +4697,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 65세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Osteoporosis일 수 있습니다.",
     "metadata": {
       "disease": "Osteoporosis",
       "symptoms": [
@@ -4712,7 +4712,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Stroke일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 65세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Stroke일 수 있습니다.",
     "metadata": {
       "disease": "Stroke",
       "symptoms": [
@@ -4728,7 +4728,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Alzheimer's Disease일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 70세, 성별: Female, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Alzheimer's Disease일 수 있습니다.",
     "metadata": {
       "disease": "Alzheimer's Disease",
       "symptoms": [
@@ -4743,7 +4743,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Alzheimer's Disease일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 70세, 성별: Female, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Alzheimer's Disease일 수 있습니다.",
     "metadata": {
       "disease": "Alzheimer's Disease",
       "symptoms": [
@@ -4758,7 +4758,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Cholecystitis일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 70세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Cholecystitis일 수 있습니다.",
     "metadata": {
       "disease": "Cholecystitis",
       "symptoms": [
@@ -4772,7 +4772,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Chronic Obstructive Pulmonary Disease (COPD)일 수 있습니다.",
+    "text": "증상: Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 70세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Chronic Obstructive Pulmonary Disease (COPD)일 수 있습니다.",
     "metadata": {
       "disease": "Chronic Obstructive Pulmonary Disease (COPD)",
       "symptoms": [
@@ -4788,7 +4788,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue, Difficulty Breathing 증상이 있는 경우 Chronic Obstructive Pulmonary Disease (COPD)일 수 있습니다.",
+    "text": "증상: Cough, Fatigue, Difficulty Breathing이(가) 있고, 나이: 70세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Chronic Obstructive Pulmonary Disease (COPD)일 수 있습니다.",
     "metadata": {
       "disease": "Chronic Obstructive Pulmonary Disease (COPD)",
       "symptoms": [
@@ -4804,7 +4804,7 @@
     }
   },
   {
-    "text": "Fever 증상이 있는 경우 Osteoporosis일 수 있습니다.",
+    "text": "증상: Fever이(가) 있고, 나이: 70세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Osteoporosis일 수 있습니다.",
     "metadata": {
       "disease": "Osteoporosis",
       "symptoms": [
@@ -4818,7 +4818,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Parkinson's Disease일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 70세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Parkinson's Disease일 수 있습니다.",
     "metadata": {
       "disease": "Parkinson's Disease",
       "symptoms": [
@@ -4832,7 +4832,7 @@
     }
   },
   {
-    "text": "Fever, Cough 증상이 있는 경우 Prostate Cancer일 수 있습니다.",
+    "text": "증상: Fever, Cough이(가) 있고, 나이: 70세, 성별: Male, 혈압: High, 콜레스테롤: Normal인 환자의 경우 Prostate Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Prostate Cancer",
       "symptoms": [
@@ -4847,7 +4847,7 @@
     }
   },
   {
-    "text": "Cough, Fatigue 증상이 있는 경우 Schizophrenia일 수 있습니다.",
+    "text": "증상: Cough, Fatigue이(가) 있고, 나이: 70세, 성별: Male, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Schizophrenia일 수 있습니다.",
     "metadata": {
       "disease": "Schizophrenia",
       "symptoms": [
@@ -4862,7 +4862,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Gout일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 70세, 성별: Female, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Gout일 수 있습니다.",
     "metadata": {
       "disease": "Gout",
       "symptoms": [
@@ -4877,7 +4877,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Migraine일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 70세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Migraine일 수 있습니다.",
     "metadata": {
       "disease": "Migraine",
       "symptoms": [
@@ -4891,7 +4891,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Stroke일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 70세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Stroke일 수 있습니다.",
     "metadata": {
       "disease": "Stroke",
       "symptoms": [
@@ -4905,7 +4905,7 @@
     }
   },
   {
-    "text": "Cough 증상이 있는 경우 Stroke일 수 있습니다.",
+    "text": "증상: Cough이(가) 있고, 나이: 70세, 성별: Male, 혈압: Normal, 콜레스테롤: High인 환자의 경우 Stroke일 수 있습니다.",
     "metadata": {
       "disease": "Stroke",
       "symptoms": [
@@ -4919,7 +4919,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Testicular Cancer일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 70세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Testicular Cancer일 수 있습니다.",
     "metadata": {
       "disease": "Testicular Cancer",
       "symptoms": [
@@ -4933,7 +4933,7 @@
     }
   },
   {
-    "text": "Fever, Cough, Fatigue 증상이 있는 경우 Tonsillitis일 수 있습니다.",
+    "text": "증상: Fever, Cough, Fatigue이(가) 있고, 나이: 70세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Tonsillitis일 수 있습니다.",
     "metadata": {
       "disease": "Tonsillitis",
       "symptoms": [
@@ -4949,7 +4949,7 @@
     }
   },
   {
-    "text": "Fatigue 증상이 있는 경우 Williams Syndrome일 수 있습니다.",
+    "text": "증상: Fatigue이(가) 있고, 나이: 70세, 성별: Female, 혈압: Normal, 콜레스테롤: Normal인 환자의 경우 Williams Syndrome일 수 있습니다.",
     "metadata": {
       "disease": "Williams Syndrome",
       "symptoms": [
@@ -4963,7 +4963,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Stroke일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 80세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Stroke일 수 있습니다.",
     "metadata": {
       "disease": "Stroke",
       "symptoms": [
@@ -4978,7 +4978,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Stroke일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 80세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Stroke일 수 있습니다.",
     "metadata": {
       "disease": "Stroke",
       "symptoms": [
@@ -4993,7 +4993,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Stroke일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 85세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Stroke일 수 있습니다.",
     "metadata": {
       "disease": "Stroke",
       "symptoms": [
@@ -5008,7 +5008,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Stroke일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 85세, 성별: Male, 혈압: High, 콜레스테롤: High인 환자의 경우 Stroke일 수 있습니다.",
     "metadata": {
       "disease": "Stroke",
       "symptoms": [
@@ -5023,7 +5023,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Stroke일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 90세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Stroke일 수 있습니다.",
     "metadata": {
       "disease": "Stroke",
       "symptoms": [
@@ -5038,7 +5038,7 @@
     }
   },
   {
-    "text": "Fever, Fatigue 증상이 있는 경우 Stroke일 수 있습니다.",
+    "text": "증상: Fever, Fatigue이(가) 있고, 나이: 90세, 성별: Female, 혈압: High, 콜레스테롤: High인 환자의 경우 Stroke일 수 있습니다.",
     "metadata": {
       "disease": "Stroke",
       "symptoms": [
