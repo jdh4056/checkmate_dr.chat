@@ -12,23 +12,34 @@ import google.generativeai as genai
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 
-client = genai.Client(api_key='AIzaSyCHcy8oO-XhjsLCTdzLB64t9XR01OanbpM')
+#client = genai.Client(api_key='AIzaSyCHcy8oO-XhjsLCTdzLB64t9XR01OanbpM')
+API_KEY = 'AIzaSyCHcy8oO-XhjsLCTdzLB64t9XR01OanbpM' # 실제 API 키
+genai.configure(api_key=API_KEY)
 
 class GeminiEmbeddingFunction(EmbeddingFunction):
   def __call__(self, input: Documents) -> Embeddings:
-
     EMBEDDING_MODEL_ID = "models/embedding-001"
     title = "Custom query"
-    response = client.models.embed_content(
+    #response = client.models.embed_content(
+    #    model=EMBEDDING_MODEL_ID,
+    #    contents=input,
+    #    #config=types.EmbedContentConfig(
+    #    config=genai.types.EmbedContentConfig(
+    #      task_type="retrieval_document",
+    #      title=title
+    #    )
+    #)
+    response = genai.embed_content(
         model=EMBEDDING_MODEL_ID,
-        contents=input,
-        #config=types.EmbedContentConfig(
-        config=genai.types.EmbedContentConfig(
-          task_type="retrieval_document",
-          title=title
-        )
+        content=input,  # 'contents' 대신 'content' 일 수 있습니다. (버전에 따라 다름)
+        task_type="RETRIEVAL_DOCUMENT",  # EmbedContentConfig 대신 직접 문자열로 전달
+        title=title
+        # EmbedContentConfig 객체 생성 불필요
     )
     return [e.values for e in response.embeddings]
+
+
+
 
 def preprocess_metadata(metadata):
     new_metadata = {}
@@ -155,10 +166,15 @@ async def consult_patient(user_query: UserQuery):
     try:
         #Call Gemini model
         MODEL_ID = "gemini-2.0-flash"
-        response = client.models.generate_content(
-            model=MODEL_ID,
-            contents=prompt
-        )
+
+        #response = client.models.generate_content(
+        #    model=MODEL_ID,
+        #    contents=prompt
+        #)
+
+        model = genai.GenerativeModel(MODEL_ID)
+        # 'contents' 인자명이 맞는지, 아니면 단순 문자열만 전달해야 하는지 확인
+        response = model.generate_content(contents=prompt)  # prompt_text 변수명 사용
 
 
         
