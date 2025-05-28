@@ -64,14 +64,14 @@ jobs:
 
             echo "✅ FastAPI 실행"
             nohup venv/bin/uvicorn server:app --host 0.0.0.0 --port 5000 >> output.log 2>&1 &
-            echo "✅ Uvicorn 실행됨" >> output.log
-            sleep 10 # Uvicorn이 시작되고 로그를 남길 충분한 시간 부여
-
-            echo "🔍 output.log 확인 (Uvicorn 시작 로그 확인용)"
-            tail -n 100 output.log # 로그를 더 많이 보도록 늘립니다. 
-                                  # Uvicorn 시작 에러가 있다면 여기에 보여야 합니다.
+            echo "✅ Uvicorn (nohup) 명령어 실행 완료" >> output.log
+            echo "⏳ Uvicorn 시작 대기 (15초)..." # 대기 시간 늘림
+            sleep 15 
             
-            echo "✅ FastAPI 실행 스크립트 완료 (단순화된 테스트)"
+            echo "🔍 output.log 전체 내용 확인 (Uvicorn 시작 로그 및 에러 확인용):"
+            cat output.log # tail 대신 cat으로 전체 내용을 확인 시도
+            
+            echo "SCRIPT_DEBUG: FastAPI 실행 스크립트 주요 부분 완료. 이후 sudo 명령어들은 주석 처리됨."
             # 아래 진단 명령어들은 일단 주석 처리
             # echo "🔍 프로세스 확인"
             # ps aux | grep uvicorn
