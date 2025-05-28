@@ -13,11 +13,6 @@ jobs:
       - name: Github Repository 파일 불러오기
         uses: actions/checkout@v4
 
-      - name: Python 3.10 설치 (CI 자체에서만 쓰는 거라 실은 생략해도 됨)
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.10
-
       - name: EC2에 FastAPI 코드 전송
         uses: appleboy/scp-action@v0.1.7
         with:
