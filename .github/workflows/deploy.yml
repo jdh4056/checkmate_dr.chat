@@ -30,19 +30,20 @@ jobs:
           key: ${{ secrets.EC2_PRIVATE_KEY }}
           script_stop: true
           script: |
-            # 프로젝트 이동
             rm -rf /home/ubuntu/fastapi-server/current
             mv /home/ubuntu/fastapi-server/tobe /home/ubuntu/fastapi-server/current
             cd /home/ubuntu/fastapi-server/current
 
-            # requirements 설치
-            if [ -f requirements.txt ]; then
-              python3 -m pip install --upgrade pip
-              pip3 install -r requirements.txt
-            fi
+            # 가상환경 생성 및 활성화
+            python3 -m venv venv
+            source venv/bin/activate
 
-            # 기존 uvicorn 프로세스 중지 (충돌 방지)
+            # requirements 설치
+            pip install --upgrade pip
+            pip install -r requirements.txt
+
+            # 기존 uvicorn 종료
             pkill -f "uvicorn server:app" || true
 
-            # FastAPI 실행
-            nohup uvicorn server:app --host 0.0.0.0 --port 5000 > output.log 2>&1 &
+            # FastAPI 실행 (가상환경 내 실행)
+            nohup venv/bin/uvicorn server:app --host 0.0.0.0 --port 5000 > output.log 2>&1 &
