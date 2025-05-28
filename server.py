@@ -35,8 +35,9 @@ class GeminiEmbeddingFunction(EmbeddingFunction):
     #)
 
     title = "Custom query"
-    model = genai.GenerativeModel("models/embedding-001")
-    response = model.embed_content(
+    #model = genai.GenerativeModel("models/embedding-001")
+    embedding_model = genai.EmbeddingModel(model_name="models/embedding-001")
+    response = embedding_model.embed_content(
         content=input,
         task_type="retrieval_document",
         title=title
