@@ -29,15 +29,32 @@ class GeminiEmbeddingFunction(EmbeddingFunction):
     #      title=title
     #    )
     #)
-    response = genai.embed_content(
-        model=EMBEDDING_MODEL_ID,
-        content=input,  # 'contents' 대신 'content' 일 수 있습니다. (버전에 따라 다름)
-        task_type="RETRIEVAL_DOCUMENT",  # EmbedContentConfig 대신 직접 문자열로 전달
-        title=title
-        # EmbedContentConfig 객체 생성 불필요
-    )
-    return [e.values for e in response.embeddings]
+    #return [e.values for e in response.embeddings]
 
+    try:
+        response = genai.embed_content(
+            model=EMBEDDING_MODEL_ID,
+            content=input,  # input은 List[str] 이므로, 배치 처리가 됩니다.
+            task_type="RETRIEVAL_DOCUMENT"
+            # title 인자는 보통 RETRIEVAL_DOCUMENT 와 함께 사용될 때 필수는 아닐 수 있습니다.
+            # 만약 title이 필요하다는 에러가 발생하면 다시 추가합니다.
+        )
+
+        # genai.embed_content의 응답이 {'embedding': List[List[float]]} 형태라고 가정합니다.
+        # (input이 List[str]이므로, 결과도 List[List[float]] 형태여야 합니다)
+        if 'embedding' in response and isinstance(response['embedding'], list):
+            # response['embedding']의 각 요소가 float 리스트인지 확인하는 것이 더 안전합니다.
+            # 예: all(isinstance(emb, list) for emb in response['embedding'])
+            return response['embedding']
+        else:
+            # 예기치 않은 응답 구조일 경우, 오류 로깅 및 빈 임베딩 리스트 반환
+            print(f"Unexpected embedding response structure: {response}")
+            return [[] for _ in input]  # 각 문서에 대한 빈 임베딩
+    except Exception as e:
+        print(f"Error in GeminiEmbeddingFunction during embed_content call: {e}")
+        import traceback
+        print(traceback.format_exc())
+        return [[] for _ in input]  # 오류 발생 시 빈 임베딩 리스트 반환
 
 
 
