@@ -19,7 +19,7 @@ jobs:
           host: ${{ secrets.EC2_HOST }}
           username: ${{ secrets.EC2_USERNAME }}
           key: ${{ secrets.EC2_PRIVATE_KEY }}
-          source: "."
+          source: ".env, ."
           target: /home/ubuntu/fastapi-server/tobe
 
       - name: EC2에서 FastAPI 서버 재시작
