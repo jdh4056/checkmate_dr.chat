@@ -19,7 +19,7 @@ jobs:
           host: ${{ secrets.EC2_HOST }}
           username: ${{ secrets.EC2_USERNAME }}
           key: ${{ secrets.EC2_PRIVATE_KEY }}
-          source: ".env, ."
+          source: "."
           target: /home/ubuntu/fastapi-server/tobe
 
       - name: EC2에서 FastAPI 서버 재시작
@@ -33,8 +33,6 @@ jobs:
           command_timeout: 1800s     # ✅ 전체 명령 실행 시간 증가 (30분)
           script: |
             echo "✅ 시작: 서버 재시작"
-
-            export GOOGLE_API_KEY=${{ secrets.GOOGLE_API_KEY }}
             rm -rf /home/ubuntu/fastapi-server/current
             mv /home/ubuntu/fastapi-server/tobe /home/ubuntu/fastapi-server/current
             cd /home/ubuntu/fastapi-server/current

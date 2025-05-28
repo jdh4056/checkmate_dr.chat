@@ -4,43 +4,29 @@ import numpy as np
 import pandas as pd
 import re
 import json
-import os
-from dotenv import load_dotenv
 
 load_dotenv()  # .env 파일 자동 로딩
 
 from chromadb import Documents, EmbeddingFunction, Embeddings
-#from google import genai
-import google.generativeai as genai
-#from google.genai import types
-from google.generativeai import types
+from google import genai
+from google.genai import types
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 
-#client = genai.Client(api_key='AIzaSyCHcy8oO-XhjsLCTdzLB64t9XR01OanbpM')
-genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
+client = genai.Client(api_key='AIzaSyCHcy8oO-XhjsLCTdzLB64t9XR01OanbpM')
 
 class GeminiEmbeddingFunction(EmbeddingFunction):
   def __call__(self, input: Documents) -> Embeddings:
 
-    #EMBEDDING_MODEL_ID = "models/embedding-001"
-    #title = "Custom query"
-    #response = client.models.embed_content(
-    #    model=EMBEDDING_MODEL_ID,
-    #    contents=input,
-    #    config=types.EmbedContentConfig(
-    #      task_type="retrieval_document",
-    #      title=title
-    #    )
-    #)
-
+    EMBEDDING_MODEL_ID = "models/embedding-001"
     title = "Custom query"
-    #model = genai.GenerativeModel("models/embedding-001")
-    embedding_model = genai.EmbeddingModel(model_name="models/embedding-001")
-    response = embedding_model.embed_content(
-        content=input,
-        task_type="retrieval_document",
-        title=title
+    response = client.models.embed_content(
+        model=EMBEDDING_MODEL_ID,
+        contents=input,
+        config=types.EmbedContentConfig(
+          task_type="retrieval_document",
+          title=title
+        )
     )
     return [e.values for e in response.embeddings]
 
@@ -167,16 +153,10 @@ async def consult_patient(user_query: UserQuery):
     prompt = make_prompt(query_text, relevant_passages) #
     
     try:
-        # Call Gemini model
-        #MODEL_ID = "gemini-2.0-flash"
-        #response = client.models.generate_content(
-        #    model=MODEL_ID,
-        #    contents=prompt
-        #)
-
-        model = genai.GenerativeModel("gemini-2.0-flash")
-        response = model.generate_content(
-            model=model,
+        #Call Gemini model
+        MODEL_ID = "gemini-2.0-flash"
+        response = client.models.generate_content(
+            model=MODEL_ID,
             contents=prompt
         )
 
