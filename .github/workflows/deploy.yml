@@ -1,0 +1,53 @@
+name: Deploy FastAPI To EC2
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Github Repository 파일 불러오기
+        uses: actions/checkout@v4
+
+      - name: Python 3.10 설치 (CI 자체에서만 쓰는 거라 실은 생략해도 됨)
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10
+
+      - name: EC2에 FastAPI 코드 전송
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USERNAME }}
+          key: ${{ secrets.EC2_PRIVATE_KEY }}
+          source: "."
+          target: /home/ubuntu/fastapi-server/tobe
+
+      - name: EC2에서 FastAPI 서버 재시작
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USERNAME }}
+          key: ${{ secrets.EC2_PRIVATE_KEY }}
+          script_stop: true
+          script: |
+            # 프로젝트 이동
+            rm -rf /home/ubuntu/fastapi-server/current
+            mv /home/ubuntu/fastapi-server/tobe /home/ubuntu/fastapi-server/current
+            cd /home/ubuntu/fastapi-server/current
+
+            # requirements 설치
+            if [ -f requirements.txt ]; then
+              python3 -m pip install --upgrade pip
+              pip3 install -r requirements.txt
+            fi
+
+            # 기존 uvicorn 프로세스 중지 (충돌 방지)
+            pkill -f "uvicorn server:app" || true
+
+            # FastAPI 실행
+            nohup uvicorn server:app --host 0.0.0.0 --port 5000 > output.log 2>&1 &

@@ -1,0 +1,6 @@
+chromadb
+numpy
+pandas
+google-generativeai
+fastapi
+pydantic
