@@ -6,8 +6,9 @@ import re
 import json
 
 from chromadb import Documents, EmbeddingFunction, Embeddings
-from google import genai
-from google.genai import types
+#from google import genai
+#from google.genai import types
+import google.generativeai as genai
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 
@@ -21,7 +22,8 @@ class GeminiEmbeddingFunction(EmbeddingFunction):
     response = client.models.embed_content(
         model=EMBEDDING_MODEL_ID,
         contents=input,
-        config=types.EmbedContentConfig(
+        #config=types.EmbedContentConfig(
+        config=genai.types.EmbedContentConfig(
           task_type="retrieval_document",
           title=title
         )
