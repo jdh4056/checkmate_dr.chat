@@ -63,25 +63,6 @@ jobs:
             # pkill -f "uvicorn server:app" > /dev/null 2>&1 || true 
             # echo "Attempted to kill old uvicorn processes. This line always succeeds."
 
-            PIDS=$(pgrep -f "uvicorn server:app")
-
-            if [ -n "$PIDS" ]; then
-              echo "Found running uvicorn PIDs: $PIDS. Attempting to terminate."
-              # kill 명령으로 해당 PID들을 종료시킵니다.
-              kill $PIDS
-              sleep 2 # 종료될 시간을 약간 줍니다.
-              # 만약 kill로 종료되지 않았다면, 강제 종료 (kill -9)를 시도할 수도 있습니다. (주의해서 사용)
-              # if pgrep -f "uvicorn server:app"; then
-              #   echo "Processes still alive after kill, trying kill -9."
-              #   kill -9 $PIDS
-              # fi
-              echo "Old uvicorn processes termination attempt finished."
-            else
-              echo "No running uvicorn process found by pgrep."
-            fi
-            # 이 명령어 블록 전체가 성공적으로 간주되도록 마지막에 항상 성공하는 echo를 추가할 수도 있습니다.
-            echo "Process termination handling complete."
-
             echo "✅ FastAPI 실행"
             nohup venv/bin/uvicorn server:app --host 0.0.0.0 --port 5000 >> output.log 2>&1 &
             echo "✅ Uvicorn (nohup) 명령어 실행 완료" >> output.log
