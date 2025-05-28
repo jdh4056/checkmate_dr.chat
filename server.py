@@ -6,7 +6,8 @@ import re
 import json
 
 from chromadb import Documents, EmbeddingFunction, Embeddings
-from google import genai
+#from google import genai
+import google.generativeai as genai
 from google.genai import types
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
