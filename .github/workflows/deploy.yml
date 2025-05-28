@@ -29,22 +29,42 @@ jobs:
           username: ${{ secrets.EC2_USERNAME }}
           key: ${{ secrets.EC2_PRIVATE_KEY }}
           script_stop: true
+          timeout: 120s              # ✅ SSH 연결 유지 시간 증가
+          command_timeout: 1800s     # ✅ 전체 명령 실행 시간 증가 (30분)
           script: |
+            echo "✅ 시작: 서버 재시작"
+
             rm -rf /home/ubuntu/fastapi-server/current
             mv /home/ubuntu/fastapi-server/tobe /home/ubuntu/fastapi-server/current
             cd /home/ubuntu/fastapi-server/current
 
-            # 가상환경 생성 및 활성화
+            echo "✅ 가상환경 생성"
             python3 -m venv venv
             source venv/bin/activate
 
-            # requirements 설치
+            echo "✅ requirements.txt 설치"
             pip install --upgrade pip
             pip install -r requirements.txt
 
-            # 기존 uvicorn 종료
+            echo "✅ 기존 uvicorn 종료"
             pkill -f "uvicorn server:app" || true
 
-            # FastAPI 실행 (가상환경 내 실행)
+            echo "✅ FastAPI 실행"
             nohup venv/bin/uvicorn server:app --host 0.0.0.0 --port 5000 > output.log 2>&1 &
-            disown
+            echo "✅ Uvicorn 실행됨" >> output.log
+            sleep 5
+
+            echo "🔍 output.log 확인"
+            tail -n 30 output.log
+
+            echo "🔍 프로세스 확인"
+            ps aux | grep uvicorn
+
+            echo "🔍 포트 리스닝 상태 확인"
+            sudo lsof -i :5000 || echo "⚠️ 포트 5000에서 프로세스 없음"
+
+            echo "🔍 UFW 상태 확인 및 포트 열기"
+            sudo ufw status || echo "⚠️ ufw 비활성 상태 또는 접근 불가"
+            sudo ufw allow 5000 || echo "⚠️ ufw 포트 열기 실패 또는 이미 열림"
+
+            echo "✅ 배포 완료"
