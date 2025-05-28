@@ -6,21 +6,19 @@ import re
 import json
 
 from chromadb import Documents, EmbeddingFunction, Embeddings
-#from google import genai
-import google.generativeai as genai
-#from google.genai import types
+from google import genai
+from google.genai import types
 from google.generativeai import types
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 
-#client = genai.Client(api_key='AIzaSyCHcy8oO-XhjsLCTdzLB64t9XR01OanbpM')
-genai.configure(api_key='AIzaSyCHcy8oO-XhjsLCTdzLB64t9XR01OanbpM')
+client = genai.Client(api_key='AIzaSyCHcy8oO-XhjsLCTdzLB64t9XR01OanbpM')
 
 class GeminiEmbeddingFunction(EmbeddingFunction):
   def __call__(self, input: Documents) -> Embeddings:
     EMBEDDING_MODEL_ID = "models/embedding-001"
     title = "Custom query"
-    response = genai.embed_content(
+    response = client.models.embed_content(
         model=EMBEDDING_MODEL_ID,
         contents=input,
         config=types.EmbedContentConfig(
@@ -155,7 +153,7 @@ async def consult_patient(user_query: UserQuery):
     try:
         # Call Gemini model
         MODEL_ID = "gemini-2.0-flash"
-        response = genai.generate_content(
+        response = client.models.generate_content(
             model=MODEL_ID,
             contents=prompt
         )
