@@ -5,8 +5,6 @@ import pandas as pd
 import re
 import json
 
-load_dotenv()  # .env 파일 자동 로딩
-
 from chromadb import Documents, EmbeddingFunction, Embeddings
 from google import genai
 from google.genai import types
