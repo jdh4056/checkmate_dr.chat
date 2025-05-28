@@ -57,7 +57,7 @@ jobs:
             venv/bin/pip show google-generativeai >> output.log 2>&1 || echo "google-generativeai not found by pip" >> output.log
             
             echo "🔍 [DEBUG] google.generativeai 직접 임포트 시도" >> output.log
-            venv/bin/python -c "import sys; print('sys.path:', sys.path); from google import genai; print('google.genai 임포트 성공:', genai)" >> output.log 2>&1 || echo "❌ google.genai 직접 임포트 실패" >> output.log
+            venv/bin/python -c "import sys; print('sys.path:', sys.path); import google.generativeai as genai; print('google.generativeai 임포트 성공. genai object:', genai); print('genai.Client 속성 존재 여부:', hasattr(genai, 'Client')); print('genai.GenerativeModel 속성 존재 여부:', hasattr(genai, 'GenerativeModel')); print('genai.embed_content 속성 존재 여부:', hasattr(genai, 'embed_content')); print('dir(genai):', dir(genai))" >> output.log 2>&1 || echo "❌ google.generativeai 직접 임포트 또는 속성 확인 실패" >> output.log
 
             echo "✅ 기존 uvicorn 종료"
             pkill -f "uvicorn server:app" || true
