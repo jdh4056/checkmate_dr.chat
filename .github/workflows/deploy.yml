@@ -63,6 +63,7 @@ jobs:
             # pkill -f "uvicorn server:app" > /dev/null 2>&1 || true 
             # echo "Attempted to kill old uvicorn processes. This line always succeeds."
 
+
             echo "✅ FastAPI 실행"
             nohup venv/bin/uvicorn server:app --host 0.0.0.0 --port 5000 >> output.log 2>&1 &
             echo "✅ Uvicorn (nohup) 명령어 실행 완료" >> output.log
