@@ -45,16 +45,30 @@ jobs:
             pip install --upgrade pip
             pip install -r requirements.txt
 
+            echo "🔍 [DEBUG] 가상환경 Python 경로 확인" >> output.log
+            which python >> output.log
+            echo "🔍 [DEBUG] 가상환경 pip 경로 확인" >> output.log
+            which pip >> output.log
+
+            echo "🔍 [DEBUG] site-packages 내 google 관련 디렉토리 목록" >> output.log
+            ls -l venv/lib/python3.12/site-packages/google* >> output.log 2>&1 || echo "google* directory not found" >> output.log
+
+            echo "🔍 [DEBUG] pip show google-generativeai" >> output.log
+            venv/bin/pip show google-generativeai >> output.log 2>&1 || echo "google-generativeai not found by pip" >> output.log
+            
+            echo "🔍 [DEBUG] google.generativeai 직접 임포트 시도" >> output.log
+            venv/bin/python -c "import sys; print('sys.path:', sys.path); from google import genai; print('google.genai 임포트 성공:', genai)" >> output.log 2>&1 || echo "❌ google.genai 직접 임포트 실패" >> output.log
+
             echo "✅ 기존 uvicorn 종료"
             pkill -f "uvicorn server:app" || true
 
             echo "✅ FastAPI 실행"
-            nohup venv/bin/uvicorn server:app --host 0.0.0.0 --port 5000 > output.log 2>&1 &
+            nohup venv/bin/uvicorn server:app --host 0.0.0.0 --port 5000 >> output.log 2>&1 &
             echo "✅ Uvicorn 실행됨" >> output.log
             sleep 5
 
             echo "🔍 output.log 확인"
-            tail -n 30 output.log
+            tail -n 50 output.log # 로그를 좀 더 많이 보도록 늘립니다.
 
             echo "🔍 프로세스 확인"
             ps aux | grep uvicorn
