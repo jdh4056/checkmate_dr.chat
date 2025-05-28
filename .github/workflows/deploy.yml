@@ -34,6 +34,7 @@ jobs:
           script: |
             echo "✅ 시작: 서버 재시작"
 
+            export GOOGLE_API_KEY=${{ secrets.GOOGLE_API_KEY }}
             rm -rf /home/ubuntu/fastapi-server/current
             mv /home/ubuntu/fastapi-server/tobe /home/ubuntu/fastapi-server/current
             cd /home/ubuntu/fastapi-server/current

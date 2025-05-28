@@ -4,6 +4,7 @@ import numpy as np
 import pandas as pd
 import re
 import json
+import os
 
 from chromadb import Documents, EmbeddingFunction, Embeddings
 #from google import genai
@@ -13,19 +14,29 @@ from google.generativeai import types
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 
-client = genai.Client(api_key='AIzaSyCHcy8oO-XhjsLCTdzLB64t9XR01OanbpM')
+#client = genai.Client(api_key='AIzaSyCHcy8oO-XhjsLCTdzLB64t9XR01OanbpM')
+genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
 class GeminiEmbeddingFunction(EmbeddingFunction):
   def __call__(self, input: Documents) -> Embeddings:
-    EMBEDDING_MODEL_ID = "models/embedding-001"
+
+    #EMBEDDING_MODEL_ID = "models/embedding-001"
+    #title = "Custom query"
+    #response = client.models.embed_content(
+    #    model=EMBEDDING_MODEL_ID,
+    #    contents=input,
+    #    config=types.EmbedContentConfig(
+    #      task_type="retrieval_document",
+    #      title=title
+    #    )
+    #)
+
     title = "Custom query"
-    response = client.models.embed_content(
-        model=EMBEDDING_MODEL_ID,
-        contents=input,
-        config=types.EmbedContentConfig(
-          task_type="retrieval_document",
-          title=title
-        )
+    model = genai.GenerativeModel("models/embedding-001")
+    response = model.embed_content(
+        content=input,
+        task_type="retrieval_document",
+        title=title
     )
     return [e.values for e in response.embeddings]
 
@@ -153,11 +164,19 @@ async def consult_patient(user_query: UserQuery):
     
     try:
         # Call Gemini model
-        MODEL_ID = "gemini-2.0-flash"
-        response = client.models.generate_content(
-            model=MODEL_ID,
+        #MODEL_ID = "gemini-2.0-flash"
+        #response = client.models.generate_content(
+        #    model=MODEL_ID,
+        #    contents=prompt
+        #)
+
+        model = genai.GenerativeModel("gemini-2.0-flash")
+        response = model.generate_content(
+            model=model,
             contents=prompt
         )
+
+
         
         # Extract the relevant part of the answer
         final_answer = response.text.split("ANSWER:")
