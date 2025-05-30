@@ -28,7 +28,6 @@ jobs:
           host: ${{ secrets.EC2_HOST }}
           username: ${{ secrets.EC2_USERNAME }}
           key: ${{ secrets.EC2_PRIVATE_KEY }}
-          envs: GOOGLE_API_KEY_FROM_SECRET=${{ secrets.GOOGLE_API_KEY }}
           script_stop: true
           timeout: 120s              # SSH 연결 유지 시간 증가
           command_timeout: 1800s     # 전체 명령 실행 시간 증가 (30분)
@@ -43,22 +42,10 @@ jobs:
             pip install --upgrade pip
             pip install -r requirements.txt
             
-            # --- API 키 전달 상태 집중 디버깅 ---
-            echo "--- START API KEY DEBUG ---" >> output.log
-            echo "Value of GOOGLE_API_KEY_FROM_SECRET as seen by script: [${GOOGLE_API_KEY_FROM_SECRET}]" >> output.log
-            # 만약 위 값이 비어있다면, GitHub Secret 전달 자체에 문제가 있는 것입니다.
-            
-            echo "GOOGLE_API_KEY=${GOOGLE_API_KEY_FROM_SECRET}" > .env
-            # 생성된 .env 파일 권한 설정 (소유자만 읽기/쓰기 가능하도록)
-            chmod 600 .env
-            echo ".env 파일 내용 확인 (디버깅용):" # 추가된 디버깅 라인
-            cat .env >> output.log               # .env 내용을 output.log에도 기록
-            echo "--- END API KEY DEBUG ---" >> output.log
-            
             # pkill -f "uvicorn server:app" > /dev/null 2>&1 || true 
             # echo "Attempted to kill old uvicorn processes. This line always succeeds."
 
-            nohup env GOOGLE_API_KEY="${GOOGLE_API_KEY_FROM_SECRET}" venv/bin/uvicorn server:app --host 0.0.0.0 --port 5000 >> output.log 2>&1 &
+            nohup venv/bin/uvicorn server:app --host 0.0.0.0 --port 5000 >> output.log 2>&1 &
             sleep 15 
             
             tail -n 20 output.log # Uvicorn 시작 여부 및 간단한 에러 확인용

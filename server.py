@@ -6,7 +6,6 @@ import re
 import json
 import os
 
-from dotenv import load_dotenv
 from chromadb import Documents, EmbeddingFunction, Embeddings
 #from google import genai
 #from google.genai import types
