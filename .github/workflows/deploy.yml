@@ -28,58 +28,36 @@ jobs:
           host: ${{ secrets.EC2_HOST }}
           username: ${{ secrets.EC2_USERNAME }}
           key: ${{ secrets.EC2_PRIVATE_KEY }}
+          envs: GOOGLE_API_KEY_FROM_SECRET=${{ secrets.GOOGLE_API_KEY_SECRET }}
           script_stop: true
-          timeout: 120s              # ✅ SSH 연결 유지 시간 증가
-          command_timeout: 1800s     # ✅ 전체 명령 실행 시간 증가 (30분)
+          timeout: 120s              # SSH 연결 유지 시간 증가
+          command_timeout: 1800s     # 전체 명령 실행 시간 증가 (30분)
           script: |
-            echo "✅ 시작: 서버 재시작"
             rm -rf /home/ubuntu/fastapi-server/current
             mv /home/ubuntu/fastapi-server/tobe /home/ubuntu/fastapi-server/current
             cd /home/ubuntu/fastapi-server/current
 
-            echo "✅ 가상환경 생성"
             python3 -m venv venv
             source venv/bin/activate
 
-            echo "✅ requirements.txt 설치"
             pip install --upgrade pip
             pip install -r requirements.txt
-
-            echo "🔍 [DEBUG] 가상환경 Python 경로 확인" >> output.log
-            which python >> output.log
-            echo "🔍 [DEBUG] 가상환경 pip 경로 확인" >> output.log
-            which pip >> output.log
-
-            echo "🔍 [DEBUG] site-packages 내 google 관련 디렉토리 목록" >> output.log
-            ls -l venv/lib/python3.12/site-packages/google* >> output.log 2>&1 || echo "google* directory not found" >> output.log
-
-            echo "🔍 [DEBUG] pip show google-generativeai" >> output.log
-            venv/bin/pip show google-generativeai >> output.log 2>&1 || echo "google-generativeai not found by pip" >> output.log
             
-            echo "🔍 [DEBUG] google.generativeai 직접 임포트 시도" >> output.log
-            venv/bin/python -c "import sys; print('sys.path:', sys.path); import google.generativeai as genai; print('google.generativeai 임포트 성공. genai object:', genai); print('genai.Client 속성 존재 여부:', hasattr(genai, 'Client')); print('genai.GenerativeModel 속성 존재 여부:', hasattr(genai, 'GenerativeModel')); print('genai.embed_content 속성 존재 여부:', hasattr(genai, 'embed_content')); print('dir(genai):', dir(genai))" >> output.log 2>&1 || echo "❌ google.generativeai 직접 임포트 또는 속성 확인 실패" >> output.log
-
-            echo "✅ 기존 uvicorn 종료"
+            echo "GOOGLE_API_KEY=${GOOGLE_API_KEY_FROM_SECRET}" > .env
+            # 생성된 .env 파일 권한 설정 (소유자만 읽기/쓰기 가능하도록)
+            chmod 600 .env
+            
             # pkill -f "uvicorn server:app" > /dev/null 2>&1 || true 
             # echo "Attempted to kill old uvicorn processes. This line always succeeds."
 
-
-            echo "✅ FastAPI 실행"
             nohup venv/bin/uvicorn server:app --host 0.0.0.0 --port 5000 >> output.log 2>&1 &
-            echo "✅ Uvicorn (nohup) 명령어 실행 완료" >> output.log
-            echo "⏳ Uvicorn 시작 대기 (15초)..." # 대기 시간 늘림
             sleep 15 
             
-            echo "🔍 output.log 전체 내용 확인 (Uvicorn 시작 로그 및 에러 확인용):"
-            cat output.log # tail 대신 cat으로 전체 내용을 확인 시도
+            tail -n 20 output.log # Uvicorn 시작 여부 및 간단한 에러 확인용
             
             echo "SCRIPT_DEBUG: FastAPI 실행 스크립트 주요 부분 완료. 이후 sudo 명령어들은 주석 처리됨."
             # 아래 진단 명령어들은 일단 주석 처리
-            # echo "🔍 프로세스 확인"
             # ps aux | grep uvicorn
-            # echo "🔍 포트 리스닝 상태 확인"
-            # sudo lsof -i :5000 || echo "⚠️ 포트 5000에서 프로세스 없음"
-            # echo "🔍 UFW 상태 확인 및 포트 열기"
-            # sudo ufw status || echo "⚠️ ufw 비활성 상태 또는 접근 불가"
-            # sudo ufw allow 5000 || echo "⚠️ ufw 포트 열기 실패 또는 이미 열림"
-            # echo "✅ 배포 완료"
+            # sudo lsof -i :5000 || echo "포트 5000에서 프로세스 없음"
+            # sudo ufw status || echo "️ufw 비활성 상태 또는 접근 불가"
+            # sudo ufw allow 5000 || echo "ufw 포트 열기 실패 또는 이미 열림"

@@ -4,7 +4,9 @@ import numpy as np
 import pandas as pd
 import re
 import json
+import os
 
+from dotenv import load_dotenv
 from chromadb import Documents, EmbeddingFunction, Embeddings
 #from google import genai
 #from google.genai import types
@@ -12,9 +14,17 @@ import google.generativeai as genai
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 
-#client = genai.Client(api_key='AIzaSyCHcy8oO-XhjsLCTdzLB64t9XR01OanbpM')
-API_KEY = 'AIzaSyCHcy8oO-XhjsLCTdzLB64t9XR01OanbpM' # 실제 API 키
-genai.configure(api_key=API_KEY)
+#client = genai.Client(api_key='GOOGLE_API_KEY')
+API_KEY = os.environ.get("GOOGLE_API_KEY")
+
+if not API_KEY:
+    print("경고: GOOGLE_API_KEY가 .env 파일이나 환경 변수에 설정되지 않았습니다. EC2 환경에서는 .env 파일이 생성되어야 합니다.")
+else:
+    try:
+        genai.configure(api_key=API_KEY)
+        print("Google API Key configured successfully from environment.")
+    except Exception as e:
+        print(f"Error configuring Google API Key: {e}")
 
 class GeminiEmbeddingFunction(EmbeddingFunction):
   def __call__(self, input: Documents) -> Embeddings:
@@ -34,27 +44,20 @@ class GeminiEmbeddingFunction(EmbeddingFunction):
     try:
         response = genai.embed_content(
             model=EMBEDDING_MODEL_ID,
-            content=input,  # input은 List[str] 이므로, 배치 처리가 됩니다.
+            content=input,
             task_type="RETRIEVAL_DOCUMENT"
-            # title 인자는 보통 RETRIEVAL_DOCUMENT 와 함께 사용될 때 필수는 아닐 수 있습니다.
-            # 만약 title이 필요하다는 에러가 발생하면 다시 추가합니다.
         )
 
-        # genai.embed_content의 응답이 {'embedding': List[List[float]]} 형태라고 가정합니다.
-        # (input이 List[str]이므로, 결과도 List[List[float]] 형태여야 합니다)
         if 'embedding' in response and isinstance(response['embedding'], list):
-            # response['embedding']의 각 요소가 float 리스트인지 확인하는 것이 더 안전합니다.
-            # 예: all(isinstance(emb, list) for emb in response['embedding'])
             return response['embedding']
         else:
-            # 예기치 않은 응답 구조일 경우, 오류 로깅 및 빈 임베딩 리스트 반환
             print(f"Unexpected embedding response structure: {response}")
-            return [[] for _ in input]  # 각 문서에 대한 빈 임베딩
+            return [[] for _ in input]
     except Exception as e:
         print(f"Error in GeminiEmbeddingFunction during embed_content call: {e}")
         import traceback
         print(traceback.format_exc())
-        return [[] for _ in input]  # 오류 발생 시 빈 임베딩 리스트 반환
+        return [[] for _ in input]
 
 
 

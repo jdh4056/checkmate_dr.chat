@@ -4,3 +4,4 @@ pandas
 google-generativeai
 fastapi
 pydantic
+python-dotenv
