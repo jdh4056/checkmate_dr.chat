@@ -46,6 +46,9 @@ jobs:
             echo "GOOGLE_API_KEY=${GOOGLE_API_KEY_FROM_SECRET}" > .env
             # 생성된 .env 파일 권한 설정 (소유자만 읽기/쓰기 가능하도록)
             chmod 600 .env
+            echo ".env 파일 내용 확인 (디버깅용):" # 추가된 디버깅 라인
+            cat .env >> output.log               # .env 내용을 output.log에도 기록
+            echo ".env 파일 생성 및 권한 설정 완료."
             
             # pkill -f "uvicorn server:app" > /dev/null 2>&1 || true 
             # echo "Attempted to kill old uvicorn processes. This line always succeeds."
