@@ -28,7 +28,7 @@ jobs:
           host: ${{ secrets.EC2_HOST }}
           username: ${{ secrets.EC2_USERNAME }}
           key: ${{ secrets.EC2_PRIVATE_KEY }}
-          envs: GOOGLE_API_KEY_FROM_SECRET=${{ secrets.GOOGLE_API_KEY_SECRET }}
+          envs: GOOGLE_API_KEY_FROM_SECRET=${{ secrets.GOOGLE_API_KEY }}
           script_stop: true
           timeout: 120s              # SSH 연결 유지 시간 증가
           command_timeout: 1800s     # 전체 명령 실행 시간 증가 (30분)
@@ -50,7 +50,7 @@ jobs:
             # pkill -f "uvicorn server:app" > /dev/null 2>&1 || true 
             # echo "Attempted to kill old uvicorn processes. This line always succeeds."
 
-            nohup venv/bin/uvicorn server:app --host 0.0.0.0 --port 5000 >> output.log 2>&1 &
+            nohup env GOOGLE_API_KEY="${GOOGLE_API_KEY_FROM_SECRET}" venv/bin/uvicorn server:app --host 0.0.0.0 --port 5000 >> output.log 2>&1 &
             sleep 15 
             
             tail -n 20 output.log # Uvicorn 시작 여부 및 간단한 에러 확인용
