@@ -58,3 +58,4 @@ jobs:
             # sudo ufw allow 5000 || echo "ufw 포트 열기 실패 또는 이미 열림"
             
 
+
