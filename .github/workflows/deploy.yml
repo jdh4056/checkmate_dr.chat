@@ -57,3 +57,4 @@ jobs:
             # sudo ufw status || echo "️ufw 비활성 상태 또는 접근 불가"
             # sudo ufw allow 5000 || echo "ufw 포트 열기 실패 또는 이미 열림"
             
+
